@@ -1,0 +1,3882 @@
+{
+  "topics": [
+    {
+      "id": "greetings",
+      "de": "Begrüßung & Begegnung",
+      "sr": "Pozdravi i susreti",
+      "words": [
+        [
+          "hallo",
+          "zdravo"
+        ],
+        [
+          "guten Morgen",
+          "dobro jutro"
+        ],
+        [
+          "guten Tag",
+          "dobar dan"
+        ],
+        [
+          "guten Abend",
+          "dobro veče"
+        ],
+        [
+          "gute Nacht",
+          "laku noć"
+        ],
+        [
+          "auf Wiedersehen",
+          "doviđenja"
+        ],
+        [
+          "bis morgen",
+          "vidimo se sutra"
+        ],
+        [
+          "bis bald",
+          "vidimo se uskoro"
+        ],
+        [
+          "danke",
+          "hvala"
+        ],
+        [
+          "bitte (Bitte äußern)",
+          "molim"
+        ],
+        [
+          "Entschuldigung",
+          "izvinite"
+        ],
+        [
+          "ja",
+          "da"
+        ],
+        [
+          "nein",
+          "ne"
+        ],
+        [
+          "vielleicht",
+          "možda"
+        ],
+        [
+          "willkommen",
+          "dobro došli"
+        ],
+        [
+          "gern geschehen",
+          "nema na čemu"
+        ],
+        [
+          "der Name",
+          "ime"
+        ],
+        [
+          "der Vorname",
+          "lično ime"
+        ],
+        [
+          "der Nachname",
+          "prezime"
+        ],
+        [
+          "die Sprache",
+          "jezik"
+        ],
+        [
+          "die Frage",
+          "pitanje"
+        ],
+        [
+          "die Antwort",
+          "odgovor"
+        ],
+        [
+          "das Gespräch",
+          "razgovor"
+        ],
+        [
+          "der Gruß",
+          "pozdrav"
+        ],
+        [
+          "verstehen",
+          "razumeti"
+        ],
+        [
+          "sprechen",
+          "govoriti"
+        ],
+        [
+          "fragen",
+          "pitati"
+        ],
+        [
+          "antworten",
+          "odgovoriti"
+        ],
+        [
+          "langsam",
+          "polako"
+        ],
+        [
+          "zusammen",
+          "zajedno"
+        ],
+        [
+          "noch einmal",
+          "još jednom"
+        ],
+        [
+          "herzlich",
+          "srdačno"
+        ]
+      ],
+      "sentences": [
+        [
+          "Wie heißt du?",
+          "Kako se zoveš?"
+        ],
+        [
+          "Ich heiße Ana.",
+          "Zovem se Ana."
+        ],
+        [
+          "Wie geht es dir?",
+          "Kako si?"
+        ],
+        [
+          "Mir geht es gut, danke.",
+          "Dobro sam, hvala."
+        ],
+        [
+          "Schön, dich zu sehen.",
+          "Drago mi je što te vidim."
+        ],
+        [
+          "Bitte sprich langsam.",
+          "Molim te, govori polako."
+        ],
+        [
+          "Ich verstehe die Frage nicht.",
+          "Ne razumem pitanje."
+        ],
+        [
+          "Kannst du das wiederholen?",
+          "Možeš li to da ponoviš?"
+        ],
+        [
+          "Wir lernen zusammen.",
+          "Učimo zajedno."
+        ],
+        [
+          "Bis morgen früh!",
+          "Vidimo se sutra ujutru!"
+        ]
+      ]
+    },
+    {
+      "id": "home",
+      "de": "Zuhause & Dinge",
+      "sr": "Dom i predmeti",
+      "words": [
+        [
+          "das Haus",
+          "kuća"
+        ],
+        [
+          "die Wohnung",
+          "stan"
+        ],
+        [
+          "die Tür",
+          "vrata"
+        ],
+        [
+          "das Fenster",
+          "prozor"
+        ],
+        [
+          "der Tisch",
+          "sto"
+        ],
+        [
+          "der Stuhl",
+          "stolica"
+        ],
+        [
+          "das Bett",
+          "krevet"
+        ],
+        [
+          "der Schrank",
+          "ormar"
+        ],
+        [
+          "das Sofa",
+          "sofa"
+        ],
+        [
+          "die Lampe",
+          "lampa"
+        ],
+        [
+          "der Teppich",
+          "tepih"
+        ],
+        [
+          "der Spiegel",
+          "ogledalo"
+        ],
+        [
+          "das Regal",
+          "polica"
+        ],
+        [
+          "das Kissen",
+          "jastuk"
+        ],
+        [
+          "die Decke",
+          "ćebe"
+        ],
+        [
+          "die Wand",
+          "zid"
+        ],
+        [
+          "der Boden",
+          "pod"
+        ],
+        [
+          "das Dach",
+          "krov"
+        ],
+        [
+          "die Treppe",
+          "stepenice"
+        ],
+        [
+          "der Schlüssel",
+          "ključ"
+        ],
+        [
+          "die Küche",
+          "kuhinja"
+        ],
+        [
+          "das Badezimmer",
+          "kupatilo"
+        ],
+        [
+          "das Schlafzimmer",
+          "spavaća soba"
+        ],
+        [
+          "das Wohnzimmer",
+          "dnevna soba"
+        ],
+        [
+          "der Flur",
+          "hodnik"
+        ],
+        [
+          "der Balkon",
+          "balkon"
+        ],
+        [
+          "der Garten",
+          "bašta"
+        ],
+        [
+          "die Heizung",
+          "grejanje"
+        ],
+        [
+          "die Steckdose",
+          "utičnica"
+        ],
+        [
+          "der Vorhang",
+          "zavesa"
+        ],
+        [
+          "die Schublade",
+          "fioka"
+        ],
+        [
+          "das Handtuch",
+          "peškir"
+        ]
+      ],
+      "sentences": [
+        [
+          "Der Schlüssel liegt auf dem Tisch.",
+          "Ključ je na stolu."
+        ],
+        [
+          "Bitte schließe die Tür.",
+          "Molim te, zatvori vrata."
+        ],
+        [
+          "Das Fenster ist offen.",
+          "Prozor je otvoren."
+        ],
+        [
+          "Die Lampe steht neben dem Bett.",
+          "Lampa je pored kreveta."
+        ],
+        [
+          "Wir sitzen auf dem Sofa.",
+          "Sedimo na sofi."
+        ],
+        [
+          "Das Handtuch ist im Badezimmer.",
+          "Peškir je u kupatilu."
+        ],
+        [
+          "Die Küche ist klein.",
+          "Kuhinja je mala."
+        ],
+        [
+          "Ich brauche ein Kissen.",
+          "Treba mi jastuk."
+        ],
+        [
+          "Im Garten steht ein Tisch.",
+          "U bašti je sto."
+        ],
+        [
+          "Die Wohnung ist warm.",
+          "Stan je topao."
+        ]
+      ]
+    },
+    {
+      "id": "chores",
+      "de": "Haushalt & Helfen",
+      "sr": "Kućni poslovi i pomoć",
+      "words": [
+        [
+          "putzen",
+          "čistiti"
+        ],
+        [
+          "waschen",
+          "prati"
+        ],
+        [
+          "aufräumen",
+          "pospremati"
+        ],
+        [
+          "kochen",
+          "kuvati"
+        ],
+        [
+          "backen",
+          "peći"
+        ],
+        [
+          "bügeln",
+          "peglati"
+        ],
+        [
+          "fegen",
+          "mesti"
+        ],
+        [
+          "staubsaugen",
+          "usisavati"
+        ],
+        [
+          "trocknen",
+          "sušiti"
+        ],
+        [
+          "spülen",
+          "ispirati"
+        ],
+        [
+          "gießen",
+          "zalivati"
+        ],
+        [
+          "reparieren",
+          "popravljati"
+        ],
+        [
+          "öffnen",
+          "otvoriti"
+        ],
+        [
+          "schließen",
+          "zatvoriti"
+        ],
+        [
+          "helfen",
+          "pomagati"
+        ],
+        [
+          "tragen",
+          "nositi"
+        ],
+        [
+          "der Besen",
+          "metla"
+        ],
+        [
+          "der Eimer",
+          "kofa"
+        ],
+        [
+          "der Schwamm",
+          "sunđer"
+        ],
+        [
+          "die Seife",
+          "sapun"
+        ],
+        [
+          "das Waschmittel",
+          "deterdžent za veš"
+        ],
+        [
+          "die Waschmaschine",
+          "mašina za veš"
+        ],
+        [
+          "der Staubsauger",
+          "usisivač"
+        ],
+        [
+          "das Bügeleisen",
+          "pegla"
+        ],
+        [
+          "der Müll",
+          "smeće"
+        ],
+        [
+          "der Mülleimer",
+          "kanta za smeće"
+        ],
+        [
+          "die Wäsche",
+          "veš"
+        ],
+        [
+          "die Spülmaschine",
+          "mašina za sudove"
+        ],
+        [
+          "sauber",
+          "čisto"
+        ],
+        [
+          "schmutzig",
+          "prljavo"
+        ],
+        [
+          "trocken",
+          "suvo"
+        ],
+        [
+          "nass",
+          "mokro"
+        ]
+      ],
+      "sentences": [
+        [
+          "Ich wasche heute die Wäsche.",
+          "Danas perem veš."
+        ],
+        [
+          "Kannst du mir helfen?",
+          "Možeš li da mi pomogneš?"
+        ],
+        [
+          "Wir räumen die Küche auf.",
+          "Pospremamo kuhinju."
+        ],
+        [
+          "Der Eimer ist voll.",
+          "Kofa je puna."
+        ],
+        [
+          "Bitte bring den Müll hinaus.",
+          "Molim te, iznesi smeće."
+        ],
+        [
+          "Ich gieße die Blumen.",
+          "Zalivam cveće."
+        ],
+        [
+          "Das Handtuch ist noch nass.",
+          "Peškir je još mokar."
+        ],
+        [
+          "Die Waschmaschine läuft.",
+          "Mašina za veš radi."
+        ],
+        [
+          "Wir putzen das Fenster zusammen.",
+          "Zajedno čistimo prozor."
+        ],
+        [
+          "Der Boden ist jetzt sauber.",
+          "Pod je sada čist."
+        ]
+      ]
+    },
+    {
+      "id": "food",
+      "de": "Essen & Trinken",
+      "sr": "Hrana i piće",
+      "words": [
+        [
+          "das Brot",
+          "hleb"
+        ],
+        [
+          "die Milch",
+          "mleko"
+        ],
+        [
+          "das Wasser",
+          "voda"
+        ],
+        [
+          "der Kaffee",
+          "kafa"
+        ],
+        [
+          "der Tee",
+          "čaj"
+        ],
+        [
+          "der Saft",
+          "sok"
+        ],
+        [
+          "der Käse",
+          "sir"
+        ],
+        [
+          "das Ei",
+          "jaje"
+        ],
+        [
+          "die Butter",
+          "puter"
+        ],
+        [
+          "der Reis",
+          "pirinač"
+        ],
+        [
+          "die Kartoffel",
+          "krompir"
+        ],
+        [
+          "die Tomate",
+          "paradajz"
+        ],
+        [
+          "die Gurke",
+          "krastavac"
+        ],
+        [
+          "die Zwiebel",
+          "luk"
+        ],
+        [
+          "der Apfel",
+          "jabuka"
+        ],
+        [
+          "die Birne",
+          "kruška"
+        ],
+        [
+          "die Banane",
+          "banana"
+        ],
+        [
+          "die Erdbeere",
+          "jagoda"
+        ],
+        [
+          "die Suppe",
+          "supa"
+        ],
+        [
+          "der Salat",
+          "salata"
+        ],
+        [
+          "das Fleisch",
+          "meso"
+        ],
+        [
+          "der Fisch",
+          "riba"
+        ],
+        [
+          "das Salz",
+          "so"
+        ],
+        [
+          "der Zucker",
+          "šećer"
+        ],
+        [
+          "der Teller",
+          "tanjir"
+        ],
+        [
+          "die Tasse",
+          "šolja"
+        ],
+        [
+          "das Glas",
+          "čaša"
+        ],
+        [
+          "die Gabel",
+          "viljuška"
+        ],
+        [
+          "das Messer",
+          "nož"
+        ],
+        [
+          "der Löffel",
+          "kašika"
+        ],
+        [
+          "das Frühstück",
+          "doručak"
+        ],
+        [
+          "das Abendessen",
+          "večera"
+        ]
+      ],
+      "sentences": [
+        [
+          "Möchtest du einen Tee?",
+          "Želiš li čaj?"
+        ],
+        [
+          "Ich trinke Kaffee ohne Zucker.",
+          "Pijem kafu bez šećera."
+        ],
+        [
+          "Das Brot ist frisch.",
+          "Hleb je svež."
+        ],
+        [
+          "Bitte gib mir das Salz.",
+          "Molim te, dodaj mi so."
+        ],
+        [
+          "Die Suppe ist noch heiß.",
+          "Supa je još vruća."
+        ],
+        [
+          "Wir essen um sieben Uhr.",
+          "Jedemo u sedam sati."
+        ],
+        [
+          "Ich möchte ein Glas Wasser.",
+          "Želim čašu vode."
+        ],
+        [
+          "Der Käse ist im Kühlschrank.",
+          "Sir je u frižideru."
+        ],
+        [
+          "Das Frühstück ist fertig.",
+          "Doručak je spreman."
+        ],
+        [
+          "Guten Appetit!",
+          "Prijatno!"
+        ]
+      ]
+    },
+    {
+      "id": "family",
+      "de": "Familie & Menschen",
+      "sr": "Porodica i ljudi",
+      "words": [
+        [
+          "die Familie",
+          "porodica"
+        ],
+        [
+          "die Mutter",
+          "majka"
+        ],
+        [
+          "der Vater",
+          "otac"
+        ],
+        [
+          "die Eltern",
+          "roditelji"
+        ],
+        [
+          "die Tochter",
+          "ćerka"
+        ],
+        [
+          "der Sohn",
+          "sin"
+        ],
+        [
+          "die Schwester",
+          "sestra"
+        ],
+        [
+          "der Bruder",
+          "brat"
+        ],
+        [
+          "die Großmutter",
+          "baka"
+        ],
+        [
+          "der Großvater",
+          "deda"
+        ],
+        [
+          "das Kind",
+          "dete"
+        ],
+        [
+          "das Baby",
+          "beba"
+        ],
+        [
+          "die Frau",
+          "žena"
+        ],
+        [
+          "der Mann",
+          "muškarac"
+        ],
+        [
+          "die Freundin",
+          "prijateljica"
+        ],
+        [
+          "der Freund",
+          "prijatelj"
+        ],
+        [
+          "die Nachbarin",
+          "komšinica"
+        ],
+        [
+          "der Nachbar",
+          "komšija"
+        ],
+        [
+          "der Mensch",
+          "čovek"
+        ],
+        [
+          "die Leute",
+          "ljudi"
+        ],
+        [
+          "der Geburtstag",
+          "rođendan"
+        ],
+        [
+          "das Geschenk",
+          "poklon"
+        ],
+        [
+          "der Besuch",
+          "poseta"
+        ],
+        [
+          "die Hochzeit",
+          "venčanje"
+        ],
+        [
+          "die Liebe",
+          "ljubav"
+        ],
+        [
+          "die Freude",
+          "radost"
+        ],
+        [
+          "lachen",
+          "smejati se"
+        ],
+        [
+          "spielen",
+          "igrati se"
+        ],
+        [
+          "besuchen",
+          "posetiti"
+        ],
+        [
+          "feiern",
+          "slaviti"
+        ],
+        [
+          "jung",
+          "mlad"
+        ],
+        [
+          "alt",
+          "star"
+        ]
+      ],
+      "sentences": [
+        [
+          "Meine Schwester kommt heute.",
+          "Moja sestra dolazi danas."
+        ],
+        [
+          "Wie heißt dein Bruder?",
+          "Kako se zove tvoj brat?"
+        ],
+        [
+          "Die Kinder spielen im Garten.",
+          "Deca se igraju u bašti."
+        ],
+        [
+          "Wir besuchen unsere Eltern.",
+          "Posećujemo naše roditelje."
+        ],
+        [
+          "Meine Mutter hat morgen Geburtstag.",
+          "Moja majka sutra ima rođendan."
+        ],
+        [
+          "Das Geschenk ist für dich.",
+          "Poklon je za tebe."
+        ],
+        [
+          "Mein Vater kocht gern.",
+          "Moj otac voli da kuva."
+        ],
+        [
+          "Die Nachbarin hilft uns.",
+          "Komšinica nam pomaže."
+        ],
+        [
+          "Unsere Familie ist groß.",
+          "Naša porodica je velika."
+        ],
+        [
+          "Wir feiern am Samstag.",
+          "Slavimo u subotu."
+        ]
+      ]
+    },
+    {
+      "id": "work",
+      "de": "Arbeit & Lernen",
+      "sr": "Posao i učenje",
+      "words": [
+        [
+          "die Arbeit",
+          "posao"
+        ],
+        [
+          "das Büro",
+          "kancelarija"
+        ],
+        [
+          "die Firma",
+          "firma"
+        ],
+        [
+          "der Beruf",
+          "zanimanje"
+        ],
+        [
+          "die Kollegin",
+          "koleginica"
+        ],
+        [
+          "der Kollege",
+          "kolega"
+        ],
+        [
+          "die Chefin",
+          "šefica"
+        ],
+        [
+          "der Chef",
+          "šef"
+        ],
+        [
+          "der Computer",
+          "računar"
+        ],
+        [
+          "die Tastatur",
+          "tastatura"
+        ],
+        [
+          "der Bildschirm",
+          "ekran"
+        ],
+        [
+          "der Drucker",
+          "štampač"
+        ],
+        [
+          "das Telefon",
+          "telefon"
+        ],
+        [
+          "die Nachricht",
+          "poruka"
+        ],
+        [
+          "der Brief",
+          "pismo"
+        ],
+        [
+          "das Papier",
+          "papir"
+        ],
+        [
+          "der Stift",
+          "olovka"
+        ],
+        [
+          "das Heft",
+          "sveska"
+        ],
+        [
+          "das Buch",
+          "knjiga"
+        ],
+        [
+          "die Schule",
+          "škola"
+        ],
+        [
+          "die Lehrerin",
+          "nastavnica"
+        ],
+        [
+          "der Lehrer",
+          "nastavnik"
+        ],
+        [
+          "die Aufgabe",
+          "zadatak"
+        ],
+        [
+          "die Pause",
+          "pauza"
+        ],
+        [
+          "arbeiten",
+          "raditi"
+        ],
+        [
+          "lernen",
+          "učiti"
+        ],
+        [
+          "lesen",
+          "čitati"
+        ],
+        [
+          "schreiben",
+          "pisati"
+        ],
+        [
+          "zuhören",
+          "slušati"
+        ],
+        [
+          "erklären",
+          "objasniti"
+        ],
+        [
+          "üben",
+          "vežbati"
+        ],
+        [
+          "fertig",
+          "gotovo"
+        ]
+      ],
+      "sentences": [
+        [
+          "Ich arbeite heute zu Hause.",
+          "Danas radim kod kuće."
+        ],
+        [
+          "Die Pause beginnt um zwölf Uhr.",
+          "Pauza počinje u dvanaest sati."
+        ],
+        [
+          "Mein Computer ist langsam.",
+          "Moj računar je spor."
+        ],
+        [
+          "Bitte schreibe deinen Namen.",
+          "Molim te, napiši svoje ime."
+        ],
+        [
+          "Ich lese ein Buch.",
+          "Čitam knjigu."
+        ],
+        [
+          "Die Kollegin erklärt die Aufgabe.",
+          "Koleginica objašnjava zadatak."
+        ],
+        [
+          "Wir üben jeden Tag.",
+          "Vežbamo svaki dan."
+        ],
+        [
+          "Wo ist mein Stift?",
+          "Gde je moja olovka?"
+        ],
+        [
+          "Ich brauche eine Pause.",
+          "Treba mi pauza."
+        ],
+        [
+          "Die Nachricht ist für dich.",
+          "Poruka je za tebe."
+        ]
+      ]
+    },
+    {
+      "id": "shopping",
+      "de": "Einkaufen & Kleidung",
+      "sr": "Kupovina i odeća",
+      "words": [
+        [
+          "das Geschäft",
+          "prodavnica"
+        ],
+        [
+          "der Supermarkt",
+          "supermarket"
+        ],
+        [
+          "der Markt",
+          "pijaca"
+        ],
+        [
+          "die Bäckerei",
+          "pekara"
+        ],
+        [
+          "die Kasse",
+          "kasa"
+        ],
+        [
+          "der Preis",
+          "cena"
+        ],
+        [
+          "das Geld",
+          "novac"
+        ],
+        [
+          "die Rechnung",
+          "račun"
+        ],
+        [
+          "die Tasche",
+          "torba"
+        ],
+        [
+          "der Korb",
+          "korpa"
+        ],
+        [
+          "die Flasche",
+          "flaša"
+        ],
+        [
+          "die Packung",
+          "pakovanje"
+        ],
+        [
+          "das Angebot",
+          "ponuda"
+        ],
+        [
+          "der Rabatt",
+          "popust"
+        ],
+        [
+          "die Größe",
+          "veličina"
+        ],
+        [
+          "die Farbe",
+          "boja"
+        ],
+        [
+          "die Hose",
+          "pantalone"
+        ],
+        [
+          "das Hemd",
+          "košulja"
+        ],
+        [
+          "das Kleid",
+          "haljina"
+        ],
+        [
+          "die Jacke",
+          "jakna"
+        ],
+        [
+          "der Schuh",
+          "cipela"
+        ],
+        [
+          "die Socke",
+          "čarapa"
+        ],
+        [
+          "der Hut",
+          "šešir"
+        ],
+        [
+          "der Mantel",
+          "kaput"
+        ],
+        [
+          "kaufen",
+          "kupiti"
+        ],
+        [
+          "bezahlen",
+          "platiti"
+        ],
+        [
+          "kosten",
+          "koštati"
+        ],
+        [
+          "suchen",
+          "tražiti"
+        ],
+        [
+          "billig",
+          "jeftino"
+        ],
+        [
+          "teuer",
+          "skupo"
+        ],
+        [
+          "klein",
+          "mali"
+        ],
+        [
+          "groß",
+          "veliki"
+        ]
+      ],
+      "sentences": [
+        [
+          "Wie viel kostet das?",
+          "Koliko to košta?"
+        ],
+        [
+          "Ich bezahle mit Karte.",
+          "Plaćam karticom."
+        ],
+        [
+          "Haben Sie eine Tasche?",
+          "Imate li torbu?"
+        ],
+        [
+          "Ich suche eine Jacke.",
+          "Tražim jaknu."
+        ],
+        [
+          "Die Schuhe sind zu klein.",
+          "Cipele su premale."
+        ],
+        [
+          "Wo ist die Kasse?",
+          "Gde je kasa?"
+        ],
+        [
+          "Ich brauche zwei Flaschen Wasser.",
+          "Trebaju mi dve flaše vode."
+        ],
+        [
+          "Das Geschäft ist heute geschlossen.",
+          "Prodavnica je danas zatvorena."
+        ],
+        [
+          "Bitte geben Sie mir die Rechnung.",
+          "Molim vas, dajte mi račun."
+        ],
+        [
+          "Wir kaufen Brot auf dem Markt.",
+          "Kupujemo hleb na pijaci."
+        ]
+      ]
+    },
+    {
+      "id": "time",
+      "de": "Zeit & Alltag",
+      "sr": "Vreme i svakodnevica",
+      "words": [
+        [
+          "heute",
+          "danas"
+        ],
+        [
+          "morgen",
+          "sutra"
+        ],
+        [
+          "gestern",
+          "juče"
+        ],
+        [
+          "jetzt",
+          "sada"
+        ],
+        [
+          "später",
+          "kasnije"
+        ],
+        [
+          "früh",
+          "rano"
+        ],
+        [
+          "spät",
+          "kasno"
+        ],
+        [
+          "immer",
+          "uvek"
+        ],
+        [
+          "oft",
+          "često"
+        ],
+        [
+          "manchmal",
+          "ponekad"
+        ],
+        [
+          "nie",
+          "nikada"
+        ],
+        [
+          "bald",
+          "uskoro"
+        ],
+        [
+          "der Tag",
+          "dan"
+        ],
+        [
+          "die Woche",
+          "nedelja"
+        ],
+        [
+          "der Monat",
+          "mesec"
+        ],
+        [
+          "das Jahr",
+          "godina"
+        ],
+        [
+          "die Stunde",
+          "sat"
+        ],
+        [
+          "die Minute",
+          "minut"
+        ],
+        [
+          "die Sekunde",
+          "sekund"
+        ],
+        [
+          "der Morgen",
+          "jutro"
+        ],
+        [
+          "der Mittag",
+          "podne"
+        ],
+        [
+          "der Abend",
+          "veče"
+        ],
+        [
+          "die Nacht",
+          "noć"
+        ],
+        [
+          "das Wochenende",
+          "vikend"
+        ],
+        [
+          "Montag",
+          "ponedeljak"
+        ],
+        [
+          "Dienstag",
+          "utorak"
+        ],
+        [
+          "Mittwoch",
+          "sreda"
+        ],
+        [
+          "Donnerstag",
+          "četvrtak"
+        ],
+        [
+          "Freitag",
+          "petak"
+        ],
+        [
+          "Samstag",
+          "subota"
+        ],
+        [
+          "Sonntag",
+          "nedelja (dan)"
+        ],
+        [
+          "der Kalender",
+          "kalendar"
+        ]
+      ],
+      "sentences": [
+        [
+          "Wie spät ist es?",
+          "Koliko je sati?"
+        ],
+        [
+          "Heute ist Montag.",
+          "Danas je ponedeljak."
+        ],
+        [
+          "Morgen habe ich Zeit.",
+          "Sutra imam vremena."
+        ],
+        [
+          "Wir treffen uns am Abend.",
+          "Nalazimo se uveče."
+        ],
+        [
+          "Ich komme in zehn Minuten.",
+          "Dolazim za deset minuta."
+        ],
+        [
+          "Am Sonntag bleiben wir zu Hause.",
+          "U nedelju ostajemo kod kuće."
+        ],
+        [
+          "Der Termin ist nächste Woche.",
+          "Termin je sledeće nedelje."
+        ],
+        [
+          "Ich stehe früh auf.",
+          "Ustajem rano."
+        ],
+        [
+          "Warte bitte einen Moment.",
+          "Sačekaj trenutak, molim te."
+        ],
+        [
+          "Jetzt ist Zeit für eine Pause.",
+          "Sada je vreme za pauzu."
+        ]
+      ]
+    },
+    {
+      "id": "travel",
+      "de": "Unterwegs & Draußen",
+      "sr": "Na putu i napolju",
+      "words": [
+        [
+          "die Straße",
+          "ulica"
+        ],
+        [
+          "der Weg",
+          "put"
+        ],
+        [
+          "die Stadt",
+          "grad"
+        ],
+        [
+          "das Dorf",
+          "selo"
+        ],
+        [
+          "der Bahnhof",
+          "železnička stanica"
+        ],
+        [
+          "die Haltestelle",
+          "stajalište"
+        ],
+        [
+          "der Bus",
+          "autobus"
+        ],
+        [
+          "der Zug",
+          "voz"
+        ],
+        [
+          "das Auto",
+          "automobil"
+        ],
+        [
+          "das Fahrrad",
+          "bicikl"
+        ],
+        [
+          "die Fahrkarte",
+          "vozna karta"
+        ],
+        [
+          "der Koffer",
+          "kofer"
+        ],
+        [
+          "die Reise",
+          "putovanje"
+        ],
+        [
+          "der Urlaub",
+          "odmor"
+        ],
+        [
+          "der Park",
+          "park"
+        ],
+        [
+          "der Wald",
+          "šuma"
+        ],
+        [
+          "der Baum",
+          "drvo"
+        ],
+        [
+          "die Blume",
+          "cvet"
+        ],
+        [
+          "der Fluss",
+          "reka"
+        ],
+        [
+          "der See",
+          "jezero"
+        ],
+        [
+          "der Berg",
+          "planina"
+        ],
+        [
+          "die Sonne",
+          "sunce"
+        ],
+        [
+          "der Regen",
+          "kiša"
+        ],
+        [
+          "der Schnee",
+          "sneg"
+        ],
+        [
+          "der Wind",
+          "vetar"
+        ],
+        [
+          "links",
+          "levo"
+        ],
+        [
+          "rechts",
+          "desno"
+        ],
+        [
+          "geradeaus",
+          "pravo"
+        ],
+        [
+          "gehen",
+          "ići"
+        ],
+        [
+          "fahren",
+          "voziti se"
+        ],
+        [
+          "warten",
+          "čekati"
+        ],
+        [
+          "ankommen",
+          "stići"
+        ]
+      ],
+      "sentences": [
+        [
+          "Wo ist die nächste Haltestelle?",
+          "Gde je najbliže stajalište?"
+        ],
+        [
+          "Der Bus kommt gleich.",
+          "Autobus uskoro dolazi."
+        ],
+        [
+          "Wir gehen zu Fuß.",
+          "Idemo peške."
+        ],
+        [
+          "Biegen Sie bitte links ab.",
+          "Skrenite levo, molim vas."
+        ],
+        [
+          "Ich brauche eine Fahrkarte.",
+          "Treba mi vozna karta."
+        ],
+        [
+          "Heute scheint die Sonne.",
+          "Danas sija sunce."
+        ],
+        [
+          "Es regnet seit dem Morgen.",
+          "Kiša pada od jutros."
+        ],
+        [
+          "Wir machen einen Spaziergang.",
+          "Idemo u šetnju."
+        ],
+        [
+          "Der Park ist neben dem Bahnhof.",
+          "Park je pored železničke stanice."
+        ],
+        [
+          "Wann kommt der Zug an?",
+          "Kada stiže voz?"
+        ]
+      ]
+    },
+    {
+      "id": "health",
+      "de": "Körper & Wohlbefinden",
+      "sr": "Telo i zdravlje",
+      "words": [
+        [
+          "der Kopf",
+          "glava"
+        ],
+        [
+          "die Hand",
+          "ruka"
+        ],
+        [
+          "der Fuß",
+          "stopalo"
+        ],
+        [
+          "das Bein",
+          "noga"
+        ],
+        [
+          "das Auge",
+          "oko"
+        ],
+        [
+          "das Ohr",
+          "uvo"
+        ],
+        [
+          "die Nase",
+          "nos"
+        ],
+        [
+          "der Mund",
+          "usta"
+        ],
+        [
+          "der Zahn",
+          "zub"
+        ],
+        [
+          "der Rücken",
+          "leđa"
+        ],
+        [
+          "der Bauch",
+          "stomak"
+        ],
+        [
+          "das Herz",
+          "srce"
+        ],
+        [
+          "die Ärztin",
+          "lekarka"
+        ],
+        [
+          "der Arzt",
+          "lekar"
+        ],
+        [
+          "die Apotheke",
+          "apoteka"
+        ],
+        [
+          "das Krankenhaus",
+          "bolnica"
+        ],
+        [
+          "das Medikament",
+          "lek"
+        ],
+        [
+          "das Rezept",
+          "recept"
+        ],
+        [
+          "der Schmerz",
+          "bol"
+        ],
+        [
+          "das Fieber",
+          "groznica"
+        ],
+        [
+          "der Husten",
+          "kašalj"
+        ],
+        [
+          "die Erkältung",
+          "prehlada"
+        ],
+        [
+          "die Gesundheit",
+          "zdravlje"
+        ],
+        [
+          "die Ruhe",
+          "mir"
+        ],
+        [
+          "müde",
+          "umoran"
+        ],
+        [
+          "gesund",
+          "zdrav"
+        ],
+        [
+          "krank",
+          "bolestan"
+        ],
+        [
+          "durstig",
+          "žedan"
+        ],
+        [
+          "hungrig",
+          "gladan"
+        ],
+        [
+          "schlafen",
+          "spavati"
+        ],
+        [
+          "atmen",
+          "disati"
+        ],
+        [
+          "sich ausruhen",
+          "odmarati se"
+        ]
+      ],
+      "sentences": [
+        [
+          "Mein Kopf tut weh.",
+          "Boli me glava."
+        ],
+        [
+          "Ich brauche einen Arzt.",
+          "Treba mi lekar."
+        ],
+        [
+          "Wo ist die nächste Apotheke?",
+          "Gde je najbliža apoteka?"
+        ],
+        [
+          "Bitte trink etwas Wasser.",
+          "Molim te, popij malo vode."
+        ],
+        [
+          "Ich möchte mich ausruhen.",
+          "Želim da se odmorim."
+        ],
+        [
+          "Wie fühlst du dich?",
+          "Kako se osećaš?"
+        ],
+        [
+          "Mir ist kalt.",
+          "Hladno mi je."
+        ],
+        [
+          "Mir ist warm.",
+          "Toplo mi je."
+        ],
+        [
+          "Ich habe heute gut geschlafen.",
+          "Danas sam dobro spavao/spavala."
+        ],
+        [
+          "Gute Besserung!",
+          "Brz oporavak!"
+        ]
+      ]
+    }
+  ],
+  "topicsRange": [
+    346100,
+    359535
+  ],
+  "plurals": [
+    [
+      "der Name",
+      "ime",
+      "die Namen",
+      "imena"
+    ],
+    [
+      "der Vorname",
+      "lično ime",
+      "die Vornamen",
+      "lična imena"
+    ],
+    [
+      "der Nachname",
+      "prezime",
+      "die Nachnamen",
+      "prezimena"
+    ],
+    [
+      "die Sprache",
+      "jezik",
+      "die Sprachen",
+      "jezici"
+    ],
+    [
+      "die Frage",
+      "pitanje",
+      "die Fragen",
+      "pitanja"
+    ],
+    [
+      "die Antwort",
+      "odgovor",
+      "die Antworten",
+      "odgovori"
+    ],
+    [
+      "das Gespräch",
+      "razgovor",
+      "die Gespräche",
+      "razgovori"
+    ],
+    [
+      "der Gruß",
+      "pozdrav",
+      "die Grüße",
+      "pozdravi"
+    ],
+    [
+      "das Haus",
+      "kuća",
+      "die Häuser",
+      "kuće"
+    ],
+    [
+      "die Wohnung",
+      "stan",
+      "die Wohnungen",
+      "stanovi"
+    ],
+    [
+      "die Tür",
+      "vrata",
+      "die Türen",
+      "="
+    ],
+    [
+      "das Fenster",
+      "prozor",
+      "die Fenster",
+      "prozori"
+    ],
+    [
+      "der Tisch",
+      "sto",
+      "die Tische",
+      "stolovi"
+    ],
+    [
+      "der Stuhl",
+      "stolica",
+      "die Stühle",
+      "stolice"
+    ],
+    [
+      "das Bett",
+      "krevet",
+      "die Betten",
+      "kreveti"
+    ],
+    [
+      "der Schrank",
+      "ormar",
+      "die Schränke",
+      "ormari"
+    ],
+    [
+      "das Sofa",
+      "sofa",
+      "die Sofas",
+      "sofe"
+    ],
+    [
+      "die Lampe",
+      "lampa",
+      "die Lampen",
+      "lampe"
+    ],
+    [
+      "der Teppich",
+      "tepih",
+      "die Teppiche",
+      "tepisi"
+    ],
+    [
+      "der Spiegel",
+      "ogledalo",
+      "die Spiegel",
+      "ogledala"
+    ],
+    [
+      "das Regal",
+      "polica",
+      "die Regale",
+      "police"
+    ],
+    [
+      "das Kissen",
+      "jastuk",
+      "die Kissen",
+      "jastuci"
+    ],
+    [
+      "die Decke",
+      "ćebe",
+      "die Decken",
+      "~ćebad"
+    ],
+    [
+      "die Wand",
+      "zid",
+      "die Wände",
+      "zidovi"
+    ],
+    [
+      "der Boden",
+      "pod",
+      "die Böden",
+      "podovi"
+    ],
+    [
+      "das Dach",
+      "krov",
+      "die Dächer",
+      "krovovi"
+    ],
+    [
+      "die Treppe",
+      "stepenice",
+      "die Treppen",
+      "="
+    ],
+    [
+      "der Schlüssel",
+      "ključ",
+      "die Schlüssel",
+      "ključevi"
+    ],
+    [
+      "die Küche",
+      "kuhinja",
+      "die Küchen",
+      "kuhinje"
+    ],
+    [
+      "das Badezimmer",
+      "kupatilo",
+      "die Badezimmer",
+      "kupatila"
+    ],
+    [
+      "das Schlafzimmer",
+      "spavaća soba",
+      "die Schlafzimmer",
+      "spavaće sobe"
+    ],
+    [
+      "das Wohnzimmer",
+      "dnevna soba",
+      "die Wohnzimmer",
+      "dnevne sobe"
+    ],
+    [
+      "der Flur",
+      "hodnik",
+      "die Flure",
+      "hodnici"
+    ],
+    [
+      "der Balkon",
+      "balkon",
+      "die Balkone",
+      "balkoni"
+    ],
+    [
+      "der Garten",
+      "bašta",
+      "die Gärten",
+      "bašte"
+    ],
+    [
+      "die Heizung",
+      "grejanje",
+      "die Heizungen",
+      "*"
+    ],
+    [
+      "die Steckdose",
+      "utičnica",
+      "die Steckdosen",
+      "utičnice"
+    ],
+    [
+      "der Vorhang",
+      "zavesa",
+      "die Vorhänge",
+      "zavese"
+    ],
+    [
+      "die Schublade",
+      "fioka",
+      "die Schubladen",
+      "fioke"
+    ],
+    [
+      "das Handtuch",
+      "peškir",
+      "die Handtücher",
+      "peškiri"
+    ],
+    [
+      "der Besen",
+      "metla",
+      "die Besen",
+      "metle"
+    ],
+    [
+      "der Eimer",
+      "kofa",
+      "die Eimer",
+      "kofe"
+    ],
+    [
+      "der Schwamm",
+      "sunđer",
+      "die Schwämme",
+      "sunđeri"
+    ],
+    [
+      "die Seife",
+      "sapun",
+      "die Seifen",
+      "sapuni"
+    ],
+    [
+      "das Waschmittel",
+      "deterdžent za veš",
+      "die Waschmittel",
+      "deterdženti za veš"
+    ],
+    [
+      "die Waschmaschine",
+      "mašina za veš",
+      "die Waschmaschinen",
+      "mašine za veš"
+    ],
+    [
+      "der Staubsauger",
+      "usisivač",
+      "die Staubsauger",
+      "usisivači"
+    ],
+    [
+      "das Bügeleisen",
+      "pegla",
+      "die Bügeleisen",
+      "pegle"
+    ],
+    [
+      "der Müll",
+      "smeće",
+      "*",
+      "*"
+    ],
+    [
+      "der Mülleimer",
+      "kanta za smeće",
+      "die Mülleimer",
+      "kante za smeće"
+    ],
+    [
+      "die Wäsche",
+      "veš",
+      "*",
+      "*"
+    ],
+    [
+      "die Spülmaschine",
+      "mašina za sudove",
+      "die Spülmaschinen",
+      "mašine za sudove"
+    ],
+    [
+      "das Brot",
+      "hleb",
+      "die Brote",
+      "hlebovi"
+    ],
+    [
+      "die Milch",
+      "mleko",
+      "*",
+      "*"
+    ],
+    [
+      "das Wasser",
+      "voda",
+      "*",
+      "*"
+    ],
+    [
+      "der Kaffee",
+      "kafa",
+      "die Kaffees",
+      "kafe"
+    ],
+    [
+      "der Tee",
+      "čaj",
+      "die Tees",
+      "čajevi"
+    ],
+    [
+      "der Saft",
+      "sok",
+      "die Säfte",
+      "sokovi"
+    ],
+    [
+      "der Käse",
+      "sir",
+      "die Käse",
+      "sirevi"
+    ],
+    [
+      "das Ei",
+      "jaje",
+      "die Eier",
+      "jaja"
+    ],
+    [
+      "die Butter",
+      "puter",
+      "*",
+      "*"
+    ],
+    [
+      "der Reis",
+      "pirinač",
+      "*",
+      "*"
+    ],
+    [
+      "die Kartoffel",
+      "krompir",
+      "die Kartoffeln",
+      "krompiri"
+    ],
+    [
+      "die Tomate",
+      "paradajz",
+      "die Tomaten",
+      "paradajzi"
+    ],
+    [
+      "die Gurke",
+      "krastavac",
+      "die Gurken",
+      "krastavci"
+    ],
+    [
+      "die Zwiebel",
+      "luk",
+      "die Zwiebeln",
+      "lukovi"
+    ],
+    [
+      "der Apfel",
+      "jabuka",
+      "die Äpfel",
+      "jabuke"
+    ],
+    [
+      "die Birne",
+      "kruška",
+      "die Birnen",
+      "kruške"
+    ],
+    [
+      "die Banane",
+      "banana",
+      "die Bananen",
+      "banane"
+    ],
+    [
+      "die Erdbeere",
+      "jagoda",
+      "die Erdbeeren",
+      "jagode"
+    ],
+    [
+      "die Suppe",
+      "supa",
+      "die Suppen",
+      "supe"
+    ],
+    [
+      "der Salat",
+      "salata",
+      "die Salate",
+      "salate"
+    ],
+    [
+      "das Fleisch",
+      "meso",
+      "*",
+      "*"
+    ],
+    [
+      "der Fisch",
+      "riba",
+      "die Fische",
+      "ribe"
+    ],
+    [
+      "das Salz",
+      "so",
+      "*",
+      "*"
+    ],
+    [
+      "der Zucker",
+      "šećer",
+      "*",
+      "*"
+    ],
+    [
+      "der Teller",
+      "tanjir",
+      "die Teller",
+      "tanjiri"
+    ],
+    [
+      "die Tasse",
+      "šolja",
+      "die Tassen",
+      "šolje"
+    ],
+    [
+      "das Glas",
+      "čaša",
+      "die Gläser",
+      "čaše"
+    ],
+    [
+      "die Gabel",
+      "viljuška",
+      "die Gabeln",
+      "viljuške"
+    ],
+    [
+      "das Messer",
+      "nož",
+      "die Messer",
+      "noževi"
+    ],
+    [
+      "der Löffel",
+      "kašika",
+      "die Löffel",
+      "kašike"
+    ],
+    [
+      "das Frühstück",
+      "doručak",
+      "die Frühstücke",
+      "doručci"
+    ],
+    [
+      "das Abendessen",
+      "večera",
+      "die Abendessen",
+      "večere"
+    ],
+    [
+      "die Familie",
+      "porodica",
+      "die Familien",
+      "porodice"
+    ],
+    [
+      "die Mutter",
+      "majka",
+      "die Mütter",
+      "majke"
+    ],
+    [
+      "der Vater",
+      "otac",
+      "die Väter",
+      "očevi"
+    ],
+    [
+      "die Eltern",
+      "roditelji",
+      "=",
+      "="
+    ],
+    [
+      "die Tochter",
+      "ćerka",
+      "die Töchter",
+      "ćerke"
+    ],
+    [
+      "der Sohn",
+      "sin",
+      "die Söhne",
+      "sinovi"
+    ],
+    [
+      "die Schwester",
+      "sestra",
+      "die Schwestern",
+      "sestre"
+    ],
+    [
+      "der Bruder",
+      "brat",
+      "die Brüder",
+      "~braća"
+    ],
+    [
+      "die Großmutter",
+      "baka",
+      "die Großmütter",
+      "bake"
+    ],
+    [
+      "der Großvater",
+      "deda",
+      "die Großväter",
+      "dede"
+    ],
+    [
+      "das Kind",
+      "dete",
+      "die Kinder",
+      "~deca"
+    ],
+    [
+      "das Baby",
+      "beba",
+      "die Babys",
+      "bebe"
+    ],
+    [
+      "die Frau",
+      "žena",
+      "die Frauen",
+      "žene"
+    ],
+    [
+      "der Mann",
+      "muškarac",
+      "die Männer",
+      "muškarci"
+    ],
+    [
+      "die Freundin",
+      "prijateljica",
+      "die Freundinnen",
+      "prijateljice"
+    ],
+    [
+      "der Freund",
+      "prijatelj",
+      "die Freunde",
+      "prijatelji"
+    ],
+    [
+      "die Nachbarin",
+      "komšinica",
+      "die Nachbarinnen",
+      "komšinice"
+    ],
+    [
+      "der Nachbar",
+      "komšija",
+      "die Nachbarn",
+      "komšije"
+    ],
+    [
+      "der Mensch",
+      "čovek",
+      "die Menschen",
+      "ljudi"
+    ],
+    [
+      "die Leute",
+      "ljudi",
+      "=",
+      "="
+    ],
+    [
+      "der Geburtstag",
+      "rođendan",
+      "die Geburtstage",
+      "rođendani"
+    ],
+    [
+      "das Geschenk",
+      "poklon",
+      "die Geschenke",
+      "pokloni"
+    ],
+    [
+      "der Besuch",
+      "poseta",
+      "die Besuche",
+      "posete"
+    ],
+    [
+      "die Hochzeit",
+      "venčanje",
+      "die Hochzeiten",
+      "venčanja"
+    ],
+    [
+      "die Liebe",
+      "ljubav",
+      "*",
+      "*"
+    ],
+    [
+      "die Freude",
+      "radost",
+      "die Freuden",
+      "radosti"
+    ],
+    [
+      "die Arbeit",
+      "posao",
+      "die Arbeiten",
+      "poslovi"
+    ],
+    [
+      "das Büro",
+      "kancelarija",
+      "die Büros",
+      "kancelarije"
+    ],
+    [
+      "die Firma",
+      "firma",
+      "die Firmen",
+      "firme"
+    ],
+    [
+      "der Beruf",
+      "zanimanje",
+      "die Berufe",
+      "zanimanja"
+    ],
+    [
+      "die Kollegin",
+      "koleginica",
+      "die Kolleginnen",
+      "koleginice"
+    ],
+    [
+      "der Kollege",
+      "kolega",
+      "die Kollegen",
+      "kolege"
+    ],
+    [
+      "die Chefin",
+      "šefica",
+      "die Chefinnen",
+      "šefice"
+    ],
+    [
+      "der Chef",
+      "šef",
+      "die Chefs",
+      "šefovi"
+    ],
+    [
+      "der Computer",
+      "računar",
+      "die Computer",
+      "računari"
+    ],
+    [
+      "die Tastatur",
+      "tastatura",
+      "die Tastaturen",
+      "tastature"
+    ],
+    [
+      "der Bildschirm",
+      "ekran",
+      "die Bildschirme",
+      "ekrani"
+    ],
+    [
+      "der Drucker",
+      "štampač",
+      "die Drucker",
+      "štampači"
+    ],
+    [
+      "das Telefon",
+      "telefon",
+      "die Telefone",
+      "telefoni"
+    ],
+    [
+      "die Nachricht",
+      "poruka",
+      "die Nachrichten",
+      "poruke"
+    ],
+    [
+      "der Brief",
+      "pismo",
+      "die Briefe",
+      "pisma"
+    ],
+    [
+      "das Papier",
+      "papir",
+      "die Papiere",
+      "papiri"
+    ],
+    [
+      "der Stift",
+      "olovka",
+      "die Stifte",
+      "olovke"
+    ],
+    [
+      "das Heft",
+      "sveska",
+      "die Hefte",
+      "sveske"
+    ],
+    [
+      "das Buch",
+      "knjiga",
+      "die Bücher",
+      "knjige"
+    ],
+    [
+      "die Schule",
+      "škola",
+      "die Schulen",
+      "škole"
+    ],
+    [
+      "die Lehrerin",
+      "nastavnica",
+      "die Lehrerinnen",
+      "nastavnice"
+    ],
+    [
+      "der Lehrer",
+      "nastavnik",
+      "die Lehrer",
+      "nastavnici"
+    ],
+    [
+      "die Aufgabe",
+      "zadatak",
+      "die Aufgaben",
+      "zadaci"
+    ],
+    [
+      "die Pause",
+      "pauza",
+      "die Pausen",
+      "pauze"
+    ],
+    [
+      "das Geschäft",
+      "prodavnica",
+      "die Geschäfte",
+      "prodavnice"
+    ],
+    [
+      "der Supermarkt",
+      "supermarket",
+      "die Supermärkte",
+      "supermarketi"
+    ],
+    [
+      "der Markt",
+      "pijaca",
+      "die Märkte",
+      "pijace"
+    ],
+    [
+      "die Bäckerei",
+      "pekara",
+      "die Bäckereien",
+      "pekare"
+    ],
+    [
+      "die Kasse",
+      "kasa",
+      "die Kassen",
+      "kase"
+    ],
+    [
+      "der Preis",
+      "cena",
+      "die Preise",
+      "cene"
+    ],
+    [
+      "das Geld",
+      "novac",
+      "*",
+      "*"
+    ],
+    [
+      "die Rechnung",
+      "račun",
+      "die Rechnungen",
+      "računi"
+    ],
+    [
+      "die Tasche",
+      "torba",
+      "die Taschen",
+      "torbe"
+    ],
+    [
+      "der Korb",
+      "korpa",
+      "die Körbe",
+      "korpe"
+    ],
+    [
+      "die Flasche",
+      "flaša",
+      "die Flaschen",
+      "flaše"
+    ],
+    [
+      "die Packung",
+      "pakovanje",
+      "die Packungen",
+      "pakovanja"
+    ],
+    [
+      "das Angebot",
+      "ponuda",
+      "die Angebote",
+      "ponude"
+    ],
+    [
+      "der Rabatt",
+      "popust",
+      "die Rabatte",
+      "popusti"
+    ],
+    [
+      "die Größe",
+      "veličina",
+      "die Größen",
+      "veličine"
+    ],
+    [
+      "die Farbe",
+      "boja",
+      "die Farben",
+      "boje"
+    ],
+    [
+      "die Hose",
+      "pantalone",
+      "die Hosen",
+      "="
+    ],
+    [
+      "das Hemd",
+      "košulja",
+      "die Hemden",
+      "košulje"
+    ],
+    [
+      "das Kleid",
+      "haljina",
+      "die Kleider",
+      "haljine"
+    ],
+    [
+      "die Jacke",
+      "jakna",
+      "die Jacken",
+      "jakne"
+    ],
+    [
+      "der Schuh",
+      "cipela",
+      "die Schuhe",
+      "cipele"
+    ],
+    [
+      "die Socke",
+      "čarapa",
+      "die Socken",
+      "čarape"
+    ],
+    [
+      "der Hut",
+      "šešir",
+      "die Hüte",
+      "šeširi"
+    ],
+    [
+      "der Mantel",
+      "kaput",
+      "die Mäntel",
+      "kaputi"
+    ],
+    [
+      "der Tag",
+      "dan",
+      "die Tage",
+      "dani"
+    ],
+    [
+      "die Woche",
+      "nedelja",
+      "die Wochen",
+      "nedelje"
+    ],
+    [
+      "der Monat",
+      "mesec",
+      "die Monate",
+      "meseci"
+    ],
+    [
+      "das Jahr",
+      "godina",
+      "die Jahre",
+      "godine"
+    ],
+    [
+      "die Stunde",
+      "sat",
+      "die Stunden",
+      "sati"
+    ],
+    [
+      "die Minute",
+      "minut",
+      "die Minuten",
+      "minuti"
+    ],
+    [
+      "die Sekunde",
+      "sekund",
+      "die Sekunden",
+      "sekundi"
+    ],
+    [
+      "der Morgen",
+      "jutro",
+      "die Morgen",
+      "jutra"
+    ],
+    [
+      "der Mittag",
+      "podne",
+      "die Mittage",
+      "*"
+    ],
+    [
+      "der Abend",
+      "veče",
+      "die Abende",
+      "večeri"
+    ],
+    [
+      "die Nacht",
+      "noć",
+      "die Nächte",
+      "noći"
+    ],
+    [
+      "das Wochenende",
+      "vikend",
+      "die Wochenenden",
+      "vikendi"
+    ],
+    [
+      "Montag",
+      "ponedeljak",
+      "die Montage",
+      "ponedeljci"
+    ],
+    [
+      "Dienstag",
+      "utorak",
+      "die Dienstage",
+      ""
+    ],
+    [
+      "Mittwoch",
+      "sreda",
+      "die Mittwoche",
+      "srede"
+    ],
+    [
+      "Donnerstag",
+      "četvrtak",
+      "die Donnerstage",
+      ""
+    ],
+    [
+      "Freitag",
+      "petak",
+      "die Freitage",
+      ""
+    ],
+    [
+      "Samstag",
+      "subota",
+      "die Samstage",
+      "subote"
+    ],
+    [
+      "Sonntag",
+      "nedelja (dan)",
+      "die Sonntage",
+      "nedelje"
+    ],
+    [
+      "der Kalender",
+      "kalendar",
+      "die Kalender",
+      "kalendari"
+    ],
+    [
+      "die Straße",
+      "ulica",
+      "die Straßen",
+      "ulice"
+    ],
+    [
+      "der Weg",
+      "put",
+      "die Wege",
+      "putevi"
+    ],
+    [
+      "die Stadt",
+      "grad",
+      "die Städte",
+      "gradovi"
+    ],
+    [
+      "das Dorf",
+      "selo",
+      "die Dörfer",
+      "sela"
+    ],
+    [
+      "der Bahnhof",
+      "železnička stanica",
+      "die Bahnhöfe",
+      "železničke stanice"
+    ],
+    [
+      "die Haltestelle",
+      "stajalište",
+      "die Haltestellen",
+      "stajališta"
+    ],
+    [
+      "der Bus",
+      "autobus",
+      "die Busse",
+      "autobusi"
+    ],
+    [
+      "der Zug",
+      "voz",
+      "die Züge",
+      "vozovi"
+    ],
+    [
+      "das Auto",
+      "automobil",
+      "die Autos",
+      "automobili"
+    ],
+    [
+      "das Fahrrad",
+      "bicikl",
+      "die Fahrräder",
+      "bicikli"
+    ],
+    [
+      "die Fahrkarte",
+      "vozna karta",
+      "die Fahrkarten",
+      "vozne karte"
+    ],
+    [
+      "der Koffer",
+      "kofer",
+      "die Koffer",
+      "koferi"
+    ],
+    [
+      "die Reise",
+      "putovanje",
+      "die Reisen",
+      "putovanja"
+    ],
+    [
+      "der Urlaub",
+      "odmor",
+      "die Urlaube",
+      "odmori"
+    ],
+    [
+      "der Park",
+      "park",
+      "die Parks",
+      "parkovi"
+    ],
+    [
+      "der Wald",
+      "šuma",
+      "die Wälder",
+      "šume"
+    ],
+    [
+      "der Baum",
+      "drvo",
+      "die Bäume",
+      "~drveće"
+    ],
+    [
+      "die Blume",
+      "cvet",
+      "die Blumen",
+      "cvetovi"
+    ],
+    [
+      "der Fluss",
+      "reka",
+      "die Flüsse",
+      "reke"
+    ],
+    [
+      "der See",
+      "jezero",
+      "die Seen",
+      "jezera"
+    ],
+    [
+      "der Berg",
+      "planina",
+      "die Berge",
+      "planine"
+    ],
+    [
+      "die Sonne",
+      "sunce",
+      "die Sonnen",
+      "sunca"
+    ],
+    [
+      "der Regen",
+      "kiša",
+      "*",
+      "*"
+    ],
+    [
+      "der Schnee",
+      "sneg",
+      "*",
+      "*"
+    ],
+    [
+      "der Wind",
+      "vetar",
+      "die Winde",
+      "vetrovi"
+    ],
+    [
+      "der Kopf",
+      "glava",
+      "die Köpfe",
+      "glave"
+    ],
+    [
+      "die Hand",
+      "ruka",
+      "die Hände",
+      "ruke"
+    ],
+    [
+      "der Fuß",
+      "stopalo",
+      "die Füße",
+      "stopala"
+    ],
+    [
+      "das Bein",
+      "noga",
+      "die Beine",
+      "noge"
+    ],
+    [
+      "das Auge",
+      "oko",
+      "die Augen",
+      "oči"
+    ],
+    [
+      "das Ohr",
+      "uvo",
+      "die Ohren",
+      "uši"
+    ],
+    [
+      "die Nase",
+      "nos",
+      "die Nasen",
+      "nosevi"
+    ],
+    [
+      "der Mund",
+      "usta",
+      "die Münder",
+      "="
+    ],
+    [
+      "der Zahn",
+      "zub",
+      "die Zähne",
+      "zubi"
+    ],
+    [
+      "der Rücken",
+      "leđa",
+      "die Rücken",
+      "="
+    ],
+    [
+      "der Bauch",
+      "stomak",
+      "die Bäuche",
+      "stomaci"
+    ],
+    [
+      "das Herz",
+      "srce",
+      "die Herzen",
+      "srca"
+    ],
+    [
+      "die Ärztin",
+      "lekarka",
+      "die Ärztinnen",
+      "lekarke"
+    ],
+    [
+      "der Arzt",
+      "lekar",
+      "die Ärzte",
+      "lekari"
+    ],
+    [
+      "die Apotheke",
+      "apoteka",
+      "die Apotheken",
+      "apoteke"
+    ],
+    [
+      "das Krankenhaus",
+      "bolnica",
+      "die Krankenhäuser",
+      "bolnice"
+    ],
+    [
+      "das Medikament",
+      "lek",
+      "die Medikamente",
+      "lekovi"
+    ],
+    [
+      "das Rezept",
+      "recept",
+      "die Rezepte",
+      "recepti"
+    ],
+    [
+      "der Schmerz",
+      "bol",
+      "die Schmerzen",
+      "bolovi"
+    ],
+    [
+      "das Fieber",
+      "groznica",
+      "*",
+      "groznice"
+    ],
+    [
+      "der Husten",
+      "kašalj",
+      "*",
+      "*"
+    ],
+    [
+      "die Erkältung",
+      "prehlada",
+      "die Erkältungen",
+      "prehlade"
+    ],
+    [
+      "die Gesundheit",
+      "zdravlje",
+      "*",
+      "*"
+    ],
+    [
+      "die Ruhe",
+      "mir",
+      "*",
+      "*"
+    ]
+  ],
+  "pluralsRange": [
+    386904,
+    397416
+  ],
+  "grammar": {
+    "sr": {
+      "title": "Serbische Grammatik",
+      "subtitle": "Grundlagen auf Deutsch · Serbisch in Latinica",
+      "explanationLanguage": "de",
+      "chapters": [
+        {
+          "id": "sounds",
+          "title": "1. Schrift und Aussprache",
+          "paragraphs": [
+            "Serbisch wird hier ausschließlich lateinisch geschrieben. č und ć sowie dž und đ sind unterschiedliche Laute. š klingt ungefähr wie deutsches „sch“, ž wie das „g“ in „Garage“. c klingt wie „z“ in „Zeit“, j wie deutsches „j“.",
+            "lj, nj und dž gelten im serbischen Alphabet jeweils als ein Buchstabe. č ist ein härterer, ć ein weicherer tsch-artiger Laut; Hörbeispiele helfen mehr als deutsche Umschreibungen. Betonung und Vokallänge sind in gewöhnlichen Texten meist nicht markiert."
+          ],
+          "examples": [
+            [
+              "čaj / ćerka",
+              "Tee / Tochter"
+            ],
+            [
+              "žena / škola / noć",
+              "Frau / Schule / Nacht"
+            ]
+          ]
+        },
+        {
+          "id": "nouns",
+          "title": "2. Substantive, Geschlecht und Artikel",
+          "paragraphs": [
+            "Serbisch hat keine Artikel wie „der“, „die“, „das“ oder „ein“. kuća kann je nach Zusammenhang „Haus“, „das Haus“ oder „ein Haus“ bedeuten.",
+            "Es gibt männliches, weibliches und sächliches Geschlecht. Ein Konsonant am Wortende weist oft auf männlich, -a oft auf weiblich und -o oder -e oft auf sächlich hin. Das sind Hinweise, keine sicheren Regeln: noć ist weiblich; tata und deda bezeichnen männliche Personen.",
+            "Adjektive richten sich nach Geschlecht, Zahl und Fall des Substantivs. Lerne deshalb kleine Wortgruppen statt nur einzelner Endungen."
+          ],
+          "examples": [
+            [
+              "nov stan / nova kuća / novo selo",
+              "eine neue Wohnung / ein neues Haus / ein neues Dorf"
+            ],
+            [
+              "dobar čovek / dobra žena / dobro dete",
+              "ein guter Mensch / eine gute Frau / ein gutes Kind"
+            ]
+          ]
+        },
+        {
+          "id": "plural",
+          "title": "3. Einzahl und Mehrzahl",
+          "paragraphs": [
+            "Die hier gezeigte Mehrzahl ist der Nominativ Plural, also die Grundform der Mehrzahl. Andere Fälle und Zahlenwörter können andere Formen verlangen.",
+            "Viele männliche Wörter bilden den Plural mit -i; kurze Wörter erhalten häufig -ovi oder -evi. Weibliche Wörter auf -a haben oft -e, sächliche auf -o oft -a. Lautwechsel und unregelmäßige Formen müssen mitgelernt werden.",
+            "dete → deca und čovek → ljudi sind wichtige Sonderfälle. vrata, usta, leđa und pantalone stehen schon in einer Mehrzahlform, auch wenn die deutsche Übersetzung Einzahl ist. Stoffwörter wie mleko werden im gewöhnlichen Gebrauch nicht wie einzelne Gegenstände gezählt."
+          ],
+          "examples": [
+            [
+              "stan → stanovi; ključ → ključevi",
+              "Wohnung → Wohnungen; Schlüssel → Schlüssel"
+            ],
+            [
+              "kuća → kuće; selo → sela",
+              "Haus → Häuser; Dorf → Dörfer"
+            ],
+            [
+              "oko → oči; uvo → uši",
+              "Auge → Augen; Ohr → Ohren"
+            ]
+          ]
+        },
+        {
+          "id": "cases",
+          "title": "4. Die sieben Fälle",
+          "paragraphs": [
+            "Der Fall zeigt die Rolle eines Wortes im Satz. Nominativ: Wer oder was? Genitiv: wessen, Herkunft oder Menge. Dativ: Empfänger, wem? Akkusativ: direktes Objekt oder häufig Bewegungsziel. Vokativ: Anrede. Instrumental: Mittel oder Begleitung. Lokativ: Orts- oder Themenangabe nach Präpositionen.",
+            "Beispiel žena: Nominativ žena, Genitiv žene, Dativ ženi, Akkusativ ženu, Vokativ ženo, Instrumental ženom, Lokativ ženi. Das ist ein Muster, nicht die Deklination aller Substantive.",
+            "Bei einem männlichen belebten Substantiv gleicht der Akkusativ Singular häufig dem Genitiv: Vidim brata. Bei vielen unbelebten gleicht er dem Nominativ: Vidim sto."
+          ],
+          "examples": [
+            [
+              "Žena čita. Vidim ženu.",
+              "Die Frau liest. Ich sehe die Frau."
+            ],
+            [
+              "Dajem knjigu ženi.",
+              "Ich gebe der Frau ein Buch."
+            ],
+            [
+              "Razgovaram sa ženom.",
+              "Ich spreche mit der Frau."
+            ]
+          ]
+        },
+        {
+          "id": "verbs",
+          "title": "5. Personalpronomen und Gegenwart",
+          "paragraphs": [
+            "Die Personalpronomen sind ja, ti, on/ona/ono, mi, vi, oni/one/ona. Die letzte Gruppe unterscheidet männliche oder gemischte, weibliche und sächliche Mehrzahl. Als höfliche Anrede dient Vi.",
+            "Pronomen können oft wegfallen, weil die Verbendung die Person zeigt: Govorim srpski. Das Präsens von raditi lautet radim, radiš, radi, radimo, radite, rade. Andere Verben haben andere Muster: čitam, čitaš, čita, čitamo, čitate, čitaju.",
+            "Die kurzen Präsensformen von biti (sein) sind sam, si, je, smo, ste, su. Sie stehen normalerweise nicht am Satzanfang, sondern schließen sich an eine frühe betonte Einheit an: Ja sam Ana. Heute bin ich hier: Danas sam ovde."
+          ],
+          "examples": [
+            [
+              "Ja sam ovde. Mi smo kod kuće.",
+              "Ich bin hier. Wir sind zu Hause."
+            ],
+            [
+              "Imam knjigu. Imaš li vremena?",
+              "Ich habe ein Buch. Hast du Zeit?"
+            ]
+          ]
+        },
+        {
+          "id": "questions",
+          "title": "6. Fragen, Verneinung und Wortstellung",
+          "paragraphs": [
+            "Ja/Nein-Fragen können mit da li beginnen: Da li govoriš nemački? Häufig steht li nach dem Verb: Govoriš li nemački? Fragewörter sind unter anderem ko (wer), šta (was), gde (wo), kada (wann), kako (wie) und zašto (warum).",
+            "ne steht bei den meisten Verben getrennt: ne znam, ne govorim. Wichtige Ausnahmen sind nisam, nisi, nije, nismo, niste, nisu (nicht sein), nemam (nicht haben) und neću (nicht wollen bzw. verneinte Zukunft).",
+            "Die Wortstellung ist beweglicher als im Deutschen, aber nicht beliebig. Unbetonte Wörter wie sam, se und kurze Objektpronomen haben feste Stellungsbedingungen. Für den Anfang sind gelernte ganze Satzmuster hilfreich."
+          ],
+          "examples": [
+            [
+              "Gde je stanica?",
+              "Wo ist die Haltestelle?"
+            ],
+            [
+              "Ne razumem. Nisam umoran.",
+              "Ich verstehe nicht. Ich bin nicht müde."
+            ],
+            [
+              "Nemam vremena.",
+              "Ich habe keine Zeit."
+            ]
+          ]
+        },
+        {
+          "id": "past-future",
+          "title": "7. Vergangenheit, Zukunft und Aspekt",
+          "paragraphs": [
+            "Das häufige Perfekt besteht aus einer Form von biti und dem aktiven Partizip. Dieses richtet sich nach Geschlecht und Zahl: radio/radila, radilo; radili/radile/radila. Eine Frau sagt Radila sam., ein Mann Radio sam.",
+            "Die Zukunft wird unter anderem mit ću, ćeš, će, ćemo, ćete, će und dem Infinitiv gebildet: Ja ću raditi. Bei nachgestelltem Hilfsverb steht für raditi die Form radiću; Verben auf -ći bleiben getrennt: doći ću.",
+            "Viele Tätigkeiten haben ein unvollendetes und ein vollendetes Verb: čitati beschreibt das Lesen als Verlauf oder Wiederholung, pročitati das abgeschlossene Durchlesen. Aspekt ist nicht einfach eine andere Zeitform."
+          ],
+          "examples": [
+            [
+              "Čitao sam knjigu. Pročitao sam knjigu.",
+              "Ich habe in einem Buch gelesen. Ich habe das Buch durchgelesen."
+            ],
+            [
+              "Sutra ću doći.",
+              "Morgen werde ich kommen."
+            ]
+          ]
+        },
+        {
+          "id": "possession",
+          "title": "8. Besitz, Orte und Zahlen",
+          "paragraphs": [
+            "Besitzwörter passen sich dem besessenen Gegenstand an: moj brat, moja sestra, moje dete. Weitere Grundformen sind tvoj, njegov, njen, naš und vaš. svoj verweist auf das Subjekt: Ana čita svoju knjigu.",
+            "u und na stehen beim Ort mit Lokativ, beim Ziel häufig mit Akkusativ: u kući (im Haus), u kuću (ins Haus). sa mit Instrumental bezeichnet Begleitung. od und bez verlangen Genitiv.",
+            "Nach jedan steht eine passende Einzahlform. Nach dva, tri und četiri stehen besondere Zählformen, z. B. dva stola, dve kuće. Ab pet folgt normalerweise Genitiv Plural: pet stolova, pet kuća. Die Mehrzahl-Grundform allein reicht nach Zahlen also nicht immer aus."
+          ],
+          "examples": [
+            [
+              "Idem u kuću. Nalazim se u kući.",
+              "Ich gehe ins Haus. Ich befinde mich im Haus."
+            ],
+            [
+              "jedna knjiga / dve knjige / pet knjiga",
+              "ein Buch / zwei Bücher / fünf Bücher"
+            ]
+          ]
+        },
+        {
+          "id": "practice",
+          "title": "9. Kleine Übungen mit Lösungen",
+          "paragraphs": [
+            "Ergänze zuerst selbst: 1. Ja ___ Ana. 2. nova kuća → nove ___. 3. Vidim ___ (žena). 4. Mi ___ kod kuće. 5. „Ich habe keine Zeit.“",
+            "Lösungen: 1. sam. 2. kuće. 3. ženu. 4. smo. 5. Nemam vremena. Sprich danach jeden vollständigen Satz laut und ändere jeweils nur eine Person oder ein Substantiv."
+          ],
+          "examples": [
+            [
+              "Ja učim srpski. Učimo zajedno.",
+              "Ich lerne Serbisch. Wir lernen zusammen."
+            ]
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Nemačka gramatika",
+      "subtitle": "Osnove na srpskom · Latinica",
+      "explanationLanguage": "sr",
+      "chapters": [
+        {
+          "id": "sounds",
+          "title": "1. Slova i izgovor",
+          "paragraphs": [
+            "Nemački koristi ä, ö, ü i ß. Glasovi ö i ü nemaju isti izgovor kao o i u: za ü postavi jezik kao za i, a usne kao za u; za ö približno kao e uz zaobljene usne. Slušanje je važno.",
+            "sch se obično izgovara kao š, z kao c, a w kao v. ei se obično čita kao aj, ie kao dugo i. ß se izgovara kao s, ali nije uvek zamenljivo sa ss. Imenice se pišu velikim početnim slovom."
+          ],
+          "examples": [
+            [
+              "die Tür / die Türen",
+              "vrata / vrata (množina)"
+            ],
+            [
+              "heißen / lesen / schreiben",
+              "zvati se / čitati / pisati"
+            ]
+          ]
+        },
+        {
+          "id": "articles",
+          "title": "2. Rod i članovi",
+          "paragraphs": [
+            "Nemački ima tri roda: muški der, ženski die i srednji das. Rod često nije isti kao u srpskom: das Mädchen je gramatički srednjeg roda. Imenicu uči zajedno sa članom.",
+            "Određeni član označava nešto poznato: der Tisch. Neodređeni član uvodi nešto neodređeno: ein Tisch, eine Lampe, ein Haus. U množini nema neodređenog člana: Häuser. Određeni član u nominativu množine je die za sva tri roda."
+          ],
+          "examples": [
+            [
+              "der Tisch / die Lampe / das Haus",
+              "sto / lampa / kuća"
+            ],
+            [
+              "ein Tisch / eine Lampe / ein Haus",
+              "jedan sto / jedna lampa / jedna kuća"
+            ]
+          ]
+        },
+        {
+          "id": "plural",
+          "title": "3. Jednina i množina",
+          "paragraphs": [
+            "Množinu uči uz imenicu. Česti nastavci su -e, -er, -(e)n i -s, a neke imenice nemaju nastavak. Moguća je promena samoglasnika u ä, ö ili ü. Ne postoji jedno pravilo za sve imenice.",
+            "Oblik množine prikazan uz karticu je nominativ množine. U dativu se obično dodaje -n ako množina već ne završava na -n ili -s: mit den Kindern, ali mit den Autos.",
+            "die Eltern i die Leute već su oblici množine. Das Wasser, die Milch i druge gradivne imenice u svakodnevnom značenju obično se ne broje. Za količine se kaže zwei Gläser Wasser. Posebna značenja i vrste mogu imati množinu."
+          ],
+          "examples": [
+            [
+              "der Tag → die Tage; das Kind → die Kinder",
+              "dan → dani; dete → deca"
+            ],
+            [
+              "das Haus → die Häuser; die Frau → die Frauen",
+              "kuća → kuće; žena → žene"
+            ],
+            [
+              "der Schlüssel → die Schlüssel; das Auto → die Autos",
+              "ključ → ključevi; automobil → automobili"
+            ]
+          ]
+        },
+        {
+          "id": "cases",
+          "title": "4. Četiri padeža",
+          "paragraphs": [
+            "Nominativ označava subjekat (wer/was?), akuzativ često direktni objekat (wen/was?), dativ primaoca (wem?), a genitiv pripadnost (wessen?). Glagoli i predlozi određuju koji padež je potreban.",
+            "Određeni članovi redom muški/ženski/srednji/množina: nominativ der/die/das/die; akuzativ den/die/das/die; dativ dem/der/dem/den; genitiv des/der/des/der.",
+            "Neodređeni članovi za muški/ženski/srednji rod: nominativ ein/eine/ein; akuzativ einen/eine/ein; dativ einem/einer/einem; genitiv eines/einer/eines. U genitivu muškog i srednjeg roda imenica često dobija -(e)s. Neke imenice imaju dodatne promene, npr. der Mensch → den Menschen."
+          ],
+          "examples": [
+            [
+              "Der Mann sieht den Hund.",
+              "Muškarac vidi psa."
+            ],
+            [
+              "Ich gebe der Frau das Buch.",
+              "Dajem ženi knjigu."
+            ],
+            [
+              "Das ist das Auto des Nachbarn.",
+              "To je komšijin automobil."
+            ]
+          ]
+        },
+        {
+          "id": "verbs",
+          "title": "5. Zamenice i prezent",
+          "paragraphs": [
+            "Lične zamenice su ich (ja), du (ti), er/sie/es (on/ona/ono), wir (mi), ihr (vi, neformalno), sie (oni/one/ona). Učtivo obraćanje piše se velikim slovom Sie i koristi glagol kao množinsko sie.",
+            "Pravilan glagol lernen: ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen. Kod nekih glagola menja se samoglasnik: du liest, er liest; du fährst, er fährt.",
+            "Sein: ich bin, du bist, er ist, wir sind, ihr seid, sie sind. Haben: ich habe, du hast, er hat, wir haben, ihr habt, sie haben. U običnoj nemačkoj rečenici subjekat se uglavnom ne izostavlja."
+          ],
+          "examples": [
+            [
+              "Ich lerne Deutsch. Wir lernen zusammen.",
+              "Učim nemački. Učimo zajedno."
+            ],
+            [
+              "Sind Sie müde? Hast du Zeit?",
+              "Da li ste umorni? Imaš li vremena?"
+            ]
+          ]
+        },
+        {
+          "id": "order",
+          "title": "6. Red reči, pitanja i negacija",
+          "paragraphs": [
+            "U glavnoj izjavnoj rečenici promenjeni glagol stoji na drugom mestu: Heute lerne ich Deutsch. Prvo mesto može zauzimati cela grupa reči, ne samo jedna reč.",
+            "U pitanju bez upitne reči glagol je prvi: Lernst du Deutsch? Sa upitnom reči stoji iza nje: Wann lernst du? Posle weil i dass promenjeni glagol obično ide na kraj zavisne rečenice.",
+            "kein negira imenicu uz neodređeni član ili bez člana: Ich habe kein Auto. nicht negira glagol, pridev ili određeni deo rečenice: Ich komme nicht. Das ist nicht teuer. Položaj nicht zavisi od toga šta se negira."
+          ],
+          "examples": [
+            [
+              "Ich bleibe zu Hause, weil ich müde bin.",
+              "Ostajem kod kuće jer sam umoran/umorna."
+            ],
+            [
+              "Ich habe keine Zeit. Ich verstehe nicht.",
+              "Nemam vremena. Ne razumem."
+            ]
+          ]
+        },
+        {
+          "id": "tenses",
+          "title": "7. Prošlost, budućnost i modalni glagoli",
+          "paragraphs": [
+            "U razgovoru se prošlost često izražava perfektom: haben ili sein u prezentu + particip na kraju. Ich habe gelernt. Ich bin gekommen. Sein se koristi, između ostalog, uz mnoge neprelazne glagole promene mesta ili stanja. Oblik pomoćnog glagola uči uz glagol.",
+            "Particip pravilnih glagola često ima ge- i -t: gemacht. Nepravilni oblici se uče: gelesen, geschrieben. Glagoli na -ieren nemaju ge-: telefoniert. War i hatte su česti oblici prošlosti glagola sein i haben.",
+            "Budućnost se često izražava prezentom uz vreme: Morgen komme ich. Futur: Ich werde kommen. Modalni glagoli können, müssen, wollen, sollen, dürfen i mögen menjaju značenje; infinitiv stoji na kraju: Ich kann kommen. Möchte je čest učtiv oblik za želju.",
+            "Kod odvojivih glagola prefiks u glavnoj rečenici ide na kraj: Ich stehe früh auf. Perfekt je Ich bin früh aufgestanden."
+          ],
+          "examples": [
+            [
+              "Ich habe das Buch gelesen.",
+              "Pročitao/pročitala sam knjigu."
+            ],
+            [
+              "Ich möchte einen Tee. Ich muss arbeiten.",
+              "Želeo/želela bih čaj. Moram da radim."
+            ]
+          ]
+        },
+        {
+          "id": "adjectives",
+          "title": "8. Prisvojne reči, pridevi i predlozi",
+          "paragraphs": [
+            "Prisvojne reči su mein, dein, sein, ihr, unser, euer, ihr i učtivo Ihr. Nastavak zavisi od imenice: mein Vater, meine Mutter, mein Kind. Akuzativ muškog roda je meinen: Ich sehe meinen Vater.",
+            "Pridev ispred imenice dobija nastavak: der gute Mann, ein guter Mann, die gute Frau, ein gutes Kind. Posle sein ostaje bez nastavka: Der Mann ist gut. Nastavci zavise od člana, roda, broja i padeža.",
+            "mit, nach, bei, seit, von, zu i aus traže dativ; durch, für, gegen, ohne i um traže akuzativ. in, an, auf, über, unter, vor, hinter, neben i zwischen imaju dativ za mesto, a akuzativ za usmeravanje ka cilju. Nije svako kretanje automatski akuzativ: Ich gehe im Park spazieren."
+          ],
+          "examples": [
+            [
+              "Ich bin in der Küche. Ich gehe in die Küche.",
+              "U kuhinji sam. Idem u kuhinju."
+            ],
+            [
+              "mit meinem Bruder / für meine Schwester",
+              "sa mojim bratom / za moju sestru"
+            ]
+          ]
+        },
+        {
+          "id": "practice",
+          "title": "9. Kratke vežbe sa rešenjima",
+          "paragraphs": [
+            "Prvo dopuni samostalno: 1. Ich ___ Ana. 2. das Haus → die ___. 3. Ich sehe ___ Mann. 4. Heute ___ ich Deutsch. (lernen) 5. „Nemam vremena.“",
+            "Rešenja: 1. bin. 2. Häuser. 3. den. 4. lerne. 5. Ich habe keine Zeit. Pročitaj cele rečenice naglas, a zatim promeni lice ili imenicu."
+          ],
+          "examples": [
+            [
+              "Wir üben jeden Tag.",
+              "Vežbamo svakog dana."
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "grammarRange": [
+    397887,
+    412230
+  ],
+  "deUI": {
+    "grammar": "Grammatik",
+    "plural": "Mehrzahl",
+    "dePlural": "Mehrzahl Deutsch (optional)",
+    "srPlural": "Mehrzahl Serbisch (optional)",
+    "pluralMissing": "Keine Mehrzahl hinterlegt",
+    "alreadyPlural": "Bereits Mehrzahl",
+    "mass": "Im Alltag meist ohne Mehrzahl",
+    "collective": "Sammelform",
+    "pluralNote": "Grundform: Nominativ Plural; Sammelformen sind gekennzeichnet. Je nach Bedeutung können Formen auch Sorten oder Portionen bezeichnen. Die abgefragte Antwort bleibt unverändert.",
+    "grammarNote": "Grundlagen und Beispiele, keine vollständige Grammatik. Noch nicht muttersprachlich geprüft.",
+    "printBook": "Heft drucken",
+    "contents": "Inhaltsverzeichnis",
+    "lexicon": "Wörterbuch",
+    "learningEntries": "Lernkarten",
+    "adopt": "Übernehmen",
+    "alreadyAdded": "Bereits im Lernbestand",
+    "source": "Quelle",
+    "meaning": "Bedeutung",
+    "dictionaryLoading": "Wörterbuch wird geladen …",
+    "dictionaryError": "Das lokale Wörterbuch konnte nicht geladen werden.",
+    "dictionaryCredit": "Wiktionary-Mitwirkende · Kaikki / Wiktextract · CC BY-SA 4.0",
+    "dictionaryChanges": "Auswahl serbischer Latinica-Formen und Ergänzung deutscher Artikel. Nicht muttersprachlich geprüft.",
+    "dictionaryDate": "Datenabruf",
+    "derivedEntry": "Übernommen / bearbeitet · CC BY-SA 4.0",
+    "learn": "Lernen",
+    "together": "Zusammen",
+    "library": "Bibliothek",
+    "progress": "Lernstand",
+    "settings": "Einstellungen",
+    "addEntry": "Eintrag hinzufügen",
+    "editEntry": "Eintrag bearbeiten",
+    "ownEntries": "Eigene Einträge",
+    "builtIn": "Mitgeliefert",
+    "allEntries": "Alle Einträge",
+    "origin": "Herkunft",
+    "word": "Wort",
+    "sentence": "Satz",
+    "germanText": "Deutsch",
+    "serbianText": "Serbisch (lateinisch)",
+    "edit": "Bearbeiten",
+    "editEntryWarning": "Die Änderung gilt für alle Profile. Änderungen an Text, Thema oder Inhaltsart setzen den Lernfortschritt dieses Eintrags zurück; reine Pluraländerungen nicht. Vorher wird gesichert.",
+    "confirmEntryEdit": "Änderung bestätigen (gegebenenfalls Lernstand zurücksetzen)",
+    "deleteEntryTitle": "Eigenen Eintrag löschen?",
+    "deleteEntryWarning": "Dieser Eintrag, seine Favoriten und sein Lernfortschritt werden aus allen Profilen entfernt. Vorher wird eine Sicherung angelegt.",
+    "entryInvalid": "Bitte beide Texte (je 1–300 Zeichen), Thema und Inhaltsart angeben. Serbisch bitte in lateinischer Schrift, ohne Zeilenumbrüche.",
+    "ENTRY_EXISTS": "Dieses Wort- oder Satzpaar ist bereits vorhanden.",
+    "ENTRY_LIMIT": "Höchstens 1.000 eigene Einträge sind möglich.",
+    "ENTRY_MISSING": "Der Eintrag ist nicht mehr vorhanden. Bitte die Ansicht neu laden.",
+    "STALE_ENTRY": "Der Eintrag wurde inzwischen verändert. Bitte die Ansicht neu laden.",
+    "STORAGE_LIMIT": "Die Sicherung würde 10 MB überschreiten. Die Änderung wurde nicht gespeichert.",
+    "offline": "Lokal · Offline",
+    "uiLanguage": "Oberflächensprache",
+    "de": "Deutsch",
+    "sr": "Srpski",
+    "target": "Ich lerne",
+    "profile": "Lernprofil",
+    "profiles": "Lernprofile",
+    "newProfile": "Profil hinzufügen",
+    "name": "Name",
+    "create": "Profil anlegen",
+    "welcome": "Dein Lernplatz",
+    "firstProfile": "Wer lernt heute?",
+    "profileIntro": "Ein eigener Name, ein eigener Lernstand.",
+    "start": "Jetzt lernen",
+    "startTogether": "Zusammen starten",
+    "due": "Fällig",
+    "new": "Neu",
+    "started": "Begonnen",
+    "reviews": "Wiederholungen",
+    "allTopics": "Alle Themen",
+    "topic": "Thema",
+    "content": "Inhalt",
+    "allContent": "Wörter & Sätze",
+    "words": "Wörter",
+    "sentences": "Sätze",
+    "mode": "Übung",
+    "cards": "Karteikarten",
+    "choice": "Auswahl",
+    "typing": "Schreiben",
+    "round": "Rundenlänge",
+    "items": "Karten",
+    "onlyFavorites": "Nur Favoriten",
+    "favorites": "Favoriten",
+    "favorite": "Als Favorit merken",
+    "unfavorite": "Favorit entfernen",
+    "everyday": "Dein Alltag, zwei Sprachen",
+    "topics": "Themen",
+    "practice": "Üben",
+    "firstLearner": "Erstes Profil",
+    "secondLearner": "Zweites Profil",
+    "togetherTitle": "Ein Tisch. Zwei Lernwege.",
+    "togetherHint": "Abwechselnd · eigener Lernstand",
+    "needsTwo": "Zum gemeinsamen Lernen brauchst du zwei verschiedene Profile.",
+    "turn": "ist dran",
+    "translateTo": "Übersetze ins",
+    "reveal": "Antwort zeigen",
+    "again": "Noch nicht",
+    "hard": "Schwer",
+    "good": "Gewusst",
+    "easy": "Leicht",
+    "answer": "Deine Antwort",
+    "check": "Prüfen",
+    "next": "Weiter",
+    "finish": "Runde beenden",
+    "stop": "Zurück zum Lernplatz",
+    "correct": "Richtig!",
+    "incorrect": "Noch einmal üben",
+    "article": "Der Artikel gehört dazu.",
+    "diacritics": "Achte auf die diakritischen Zeichen.",
+    "solution": "Richtige Antwort",
+    "saved": "Lernstand gespeichert",
+    "saving": "Wird gespeichert …",
+    "nextDue": "Nächste Wiederholung",
+    "complete": "Runde geschafft",
+    "completeHint": "Deine Wiederholungen sind gespeichert.",
+    "emptyQueue": "Hier ist gerade nichts fällig.",
+    "emptyHint": "Wähle ein anderes Thema oder schau in die Bibliothek.",
+    "noFavorites": "Noch keine passenden Favoriten.",
+    "completed": "Geübte Karten",
+    "back": "Zurück",
+    "search": "Wörter und Sätze suchen",
+    "noResults": "Keine passenden Einträge.",
+    "previous": "Zurück",
+    "page": "Seite",
+    "of": "von",
+    "results": "Einträge",
+    "speak": "Anhören",
+    "noVoice": "Keine passende lokale Stimme verfügbar.",
+    "speechFailed": "Die lokale Sprachausgabe ist nicht verfügbar.",
+    "audio": "Aussprache",
+    "available": "Lokale Stimme verfügbar",
+    "voiceNote": "Nur lokal installierte deutsche oder serbische Stimmen werden verwendet. Die Verfügbarkeit hängt von Windows und Electron ab.",
+    "storage": "Daten & Sicherung",
+    "storagePath": "Speicherort",
+    "export": "Sicherung exportieren",
+    "import": "Sicherung wiederherstellen",
+    "exportDone": "Sicherung gespeichert.",
+    "importTitle": "Alle lokalen Daten ersetzen?",
+    "importWarning": "Die Datei ersetzt alle vorhandenen Profile, Fortschritte und eigenen Einträge. Alte Sicherungen ohne eigenen Wortschatz entfernen die eigenen Einträge ebenfalls. Vorher wird automatisch eine Sicherung angelegt.",
+    "importAction": "Sichern und ersetzen",
+    "imported": "Sicherung wiederhergestellt.",
+    "cancel": "Abbrechen",
+    "close": "Schließen",
+    "delete": "Löschen",
+    "rename": "Umbenennen",
+    "save": "Speichern",
+    "deleteTitle": "Profil wirklich löschen?",
+    "deleteWarning": "Fortschritt und Favoriten dieses Profils werden entfernt. Eine automatische Sicherung wird vorher gespeichert.",
+    "deleteAction": "Sichern und löschen",
+    "current": "Aktiv",
+    "learnedLanguage": "Lernsprache",
+    "profileLanguage": "Oberfläche des Profils",
+    "targetNote": "Für die andere Lernrichtung ein neues Profil anlegen. So bleiben beide Lernstände getrennt.",
+    "about": "Über Zajedno",
+    "contentNote": "320 Wortpaare · 100 Alltagssätze · 10 Themen. Eigene Lerntexte, nicht muttersprachlich geprüft. Serbisch in lateinischer Schrift; ekavische Formen. Anmerkungen in Klammern werden nicht mitgetippt. Adjektive stehen teils in der männlichen Grundform.",
+    "evaluationNote": "Großschreibung und Satzzeichen sind frei. Artikel und diakritische Zeichen zählen zur richtigen Antwort.",
+    "backupNote": "JSON-Sicherungen enthalten Namen, Lernstände und eigene Einträge im Klartext. Bewahre sie an einem vertrauenswürdigen Ort auf. Andere Computer werden nicht automatisch synchronisiert.",
+    "browserNote": "Browser-Vorschau: eigener Browserspeicher, getrennt von der Windows-App.",
+    "loading": "Lernplatz wird geöffnet …",
+    "retry": "Erneut versuchen",
+    "storageErrorTitle": "Speichern oder Laden nicht möglich",
+    "STORAGE_ERROR": "Der lokale Speicher ist nicht erreichbar. Prüfe freien Speicherplatz und Zugriffsrechte. Die Antwort wurde nicht bestätigt; versuche es erneut.",
+    "STORAGE_CORRUPT": "Die gespeicherte Datei ist beschädigt. Sie wurde nicht überschrieben. Du kannst eine gültige Sicherung wiederherstellen.",
+    "IMPORT_INVALID": "Keine gültige Zajedno-Sicherung (Version 1 oder 2, höchstens 10 MB). Es wurde nichts ersetzt.",
+    "NAME_EXISTS": "Dieser Name ist schon vergeben.",
+    "PROFILE_LIMIT": "Es sind höchstens 24 Profile möglich.",
+    "PROFILE_MISSING": "Das Profil ist nicht mehr vorhanden. Bitte neu laden.",
+    "STALE_REVIEW": "Diese Karte wurde bereits verändert. Bitte die Runde neu starten.",
+    "unexpected": "Die Ansicht konnte nicht geöffnet werden. Bitte neu laden. Gespeicherte Lernstände bleiben erhalten.",
+    "activity": "Letzte Wiederholungen",
+    "noActivity": "Noch keine Wiederholungen.",
+    "direction": "Lernrichtung",
+    "perPerson": "pro Person",
+    "practiceMore": "Weitere Runde",
+    "retention": "Wiederholungen nach FSRS",
+    "total": "Insgesamt",
+    "topicProgress": "Nach Thema"
+  },
+  "deUIRange": [
+    371777,
+    379376
+  ],
+  "esUI": {
+    "grammar": "Gramatika",
+    "plural": "Množina",
+    "dePlural": "Množina na nemačkom (opciono)",
+    "srPlural": "Množina na srpskom (opciono)",
+    "pluralMissing": "Množina nije uneta",
+    "alreadyPlural": "Već u množini",
+    "mass": "U svakodnevnom značenju obično bez množine",
+    "collective": "Zbirni oblik",
+    "pluralNote": "Osnovni oblik: nominativ množine; zbirni oblici su označeni. Neki oblici označavaju vrste ili porcije, zavisno od značenja. Odgovor koji se proverava ostaje isti.",
+    "grammarNote": "Osnove i primeri, ne potpuna gramatika. Još nije proverio izvorni govornik.",
+    "printBook": "Štampaj priručnik",
+    "contents": "Sadržaj priručnika",
+    "lexicon": "Rečnik",
+    "learningEntries": "Kartice",
+    "adopt": "Preuzmi",
+    "alreadyAdded": "Već među karticama",
+    "source": "Izvor",
+    "meaning": "Značenje",
+    "dictionaryLoading": "Rečnik se učitava …",
+    "dictionaryError": "Lokalni rečnik nije učitan.",
+    "dictionaryCredit": "Saradnici Wiktionary-ja · Kaikki / Wiktextract · CC BY-SA 4.0",
+    "dictionaryChanges": "Izbor srpskih oblika na latinici i dodavanje nemačkih članova. Nije proverio izvorni govornik.",
+    "dictionaryDate": "Datum preuzimanja",
+    "derivedEntry": "Preuzeto / izmenjeno · CC BY-SA 4.0",
+    "learn": "Učenje",
+    "together": "Zajedno",
+    "library": "Biblioteka",
+    "progress": "Napredak",
+    "settings": "Podešavanja",
+    "addEntry": "Dodaj stavku",
+    "editEntry": "Izmeni stavku",
+    "ownEntries": "Sopstvene stavke",
+    "builtIn": "Ugrađeno",
+    "allEntries": "Sve stavke",
+    "origin": "Poreklo",
+    "word": "Reč",
+    "sentence": "Rečenica",
+    "germanText": "Nemački",
+    "serbianText": "Srpski (latinica)",
+    "edit": "Izmeni",
+    "editEntryWarning": "Izmena važi za sve profile. Promena teksta, teme ili vrste poništava napredak ove stavke; promena samo množine ne poništava napredak. Pre toga se čuva kopija.",
+    "confirmEntryEdit": "Potvrđujem izmenu (i poništavanje napretka ako je potrebno)",
+    "deleteEntryTitle": "Obrisati sopstvenu stavku?",
+    "deleteEntryWarning": "Ova stavka, njene oznake omiljenog i napredak biće uklonjeni iz svih profila. Pre toga se čuva rezervna kopija.",
+    "entryInvalid": "Unesi oba teksta (po 1–300 znakova), temu i vrstu sadržaja. Srpski tekst mora biti na latinici, bez preloma reda.",
+    "ENTRY_EXISTS": "Ovaj par reči ili rečenica već postoji.",
+    "ENTRY_LIMIT": "Moguće je dodati najviše 1.000 sopstvenih stavki.",
+    "ENTRY_MISSING": "Stavka više ne postoji. Ponovo učitaj prikaz.",
+    "STALE_ENTRY": "Stavka je u međuvremenu izmenjena. Ponovo učitaj prikaz.",
+    "STORAGE_LIMIT": "Rezervna kopija bi premašila 10 MB. Izmena nije sačuvana.",
+    "offline": "Lokalno · Bez interneta",
+    "uiLanguage": "Jezik prikaza",
+    "de": "Deutsch",
+    "sr": "Srpski",
+    "target": "Učim",
+    "profile": "Profil",
+    "profiles": "Profili",
+    "newProfile": "Dodaj profil",
+    "name": "Ime",
+    "create": "Napravi profil",
+    "welcome": "Tvoje mesto za učenje",
+    "firstProfile": "Ko danas uči?",
+    "profileIntro": "Svoje ime, svoj napredak.",
+    "start": "Počni učenje",
+    "startTogether": "Počnite zajedno",
+    "due": "Za ponavljanje",
+    "new": "Novo",
+    "started": "Započeto",
+    "reviews": "Ponavljanja",
+    "allTopics": "Sve teme",
+    "topic": "Tema",
+    "content": "Sadržaj",
+    "allContent": "Reči i rečenice",
+    "words": "Reči",
+    "sentences": "Rečenice",
+    "mode": "Vežba",
+    "cards": "Kartice",
+    "choice": "Izbor",
+    "typing": "Pisanje",
+    "round": "Dužina kruga",
+    "items": "kartica",
+    "onlyFavorites": "Samo omiljeno",
+    "favorites": "Omiljeno",
+    "favorite": "Dodaj u omiljeno",
+    "unfavorite": "Ukloni iz omiljenog",
+    "everyday": "Tvoja svakodnevica, dva jezika",
+    "topics": "Teme",
+    "practice": "Vežbaj",
+    "firstLearner": "Prvi profil",
+    "secondLearner": "Drugi profil",
+    "togetherTitle": "Jedan sto. Dva puta učenja.",
+    "togetherHint": "Naizmenično · odvojen napredak",
+    "needsTwo": "Za zajedničko učenje potrebna su dva različita profila.",
+    "turn": "je na redu",
+    "translateTo": "Prevedi na",
+    "reveal": "Prikaži odgovor",
+    "again": "Još ne znam",
+    "hard": "Teško",
+    "good": "Znam",
+    "easy": "Lako",
+    "answer": "Tvoj odgovor",
+    "check": "Proveri",
+    "next": "Dalje",
+    "finish": "Završi krug",
+    "stop": "Nazad na početak",
+    "correct": "Tačno!",
+    "incorrect": "Vežbaj ponovo",
+    "article": "Potreban je i član.",
+    "diacritics": "Obrati pažnju na dijakritičke znakove.",
+    "solution": "Tačan odgovor",
+    "saved": "Napredak je sačuvan",
+    "saving": "Čuvanje …",
+    "nextDue": "Sledeće ponavljanje",
+    "complete": "Krug je završen",
+    "completeHint": "Tvoja ponavljanja su sačuvana.",
+    "emptyQueue": "Trenutno nema kartica za ponavljanje.",
+    "emptyHint": "Izaberi drugu temu ili pogledaj biblioteku.",
+    "noFavorites": "Nema odgovarajućih omiljenih stavki.",
+    "completed": "Uvežbane kartice",
+    "back": "Nazad",
+    "search": "Pretraži reči i rečenice",
+    "noResults": "Nema odgovarajućih stavki.",
+    "previous": "Nazad",
+    "page": "Stranica",
+    "of": "od",
+    "results": "stavki",
+    "speak": "Poslušaj",
+    "noVoice": "Nije dostupan odgovarajući lokalni glas.",
+    "speechFailed": "Lokalni izgovor nije dostupan.",
+    "audio": "Izgovor",
+    "available": "Lokalni glas je dostupan",
+    "voiceNote": "Koriste se samo lokalno instalirani nemački ili srpski glasovi. Dostupnost zavisi od sistema Windows i aplikacije Electron.",
+    "storage": "Podaci i rezervne kopije",
+    "storagePath": "Mesto čuvanja",
+    "export": "Izvezi rezervnu kopiju",
+    "import": "Vrati rezervnu kopiju",
+    "exportDone": "Rezervna kopija je sačuvana.",
+    "importTitle": "Zameni sve lokalne podatke?",
+    "importWarning": "Datoteka zamenjuje sve profile, napredak i sopstvene stavke. Stare kopije bez sopstvenih stavki takođe ih uklanjaju. Pre zamene automatski se čuva rezervna kopija.",
+    "importAction": "Sačuvaj i zameni",
+    "imported": "Rezervna kopija je vraćena.",
+    "cancel": "Otkaži",
+    "close": "Zatvori",
+    "delete": "Obriši",
+    "rename": "Preimenuj",
+    "save": "Sačuvaj",
+    "deleteTitle": "Zaista obrisati profil?",
+    "deleteWarning": "Napredak i omiljene stavke ovog profila biće uklonjeni. Pre toga se čuva automatska rezervna kopija.",
+    "deleteAction": "Sačuvaj i obriši",
+    "current": "Aktivan",
+    "learnedLanguage": "Jezik učenja",
+    "profileLanguage": "Jezik prikaza profila",
+    "targetNote": "Za drugi smer učenja napravi novi profil. Tako napredak ostaje odvojen.",
+    "about": "O aplikaciji Zajedno",
+    "contentNote": "320 parova reči · 100 svakodnevnih rečenica · 10 tema. Originalni tekstovi koje nije proverio izvorni govornik. Srpski na latinici; ekavski oblici. Napomene u zagradama se ne unose. Neki pridevi su u muškom osnovnom obliku.",
+    "evaluationNote": "Velika slova i interpunkcija se zanemaruju. Članovi i dijakritički znakovi su deo tačnog odgovora.",
+    "backupNote": "JSON kopije sadrže imena, napredak i sopstvene stavke kao običan tekst. Čuvaj ih na pouzdanom mestu. Drugi računari se ne sinhronizuju automatski.",
+    "browserNote": "Pregled u pregledaču: posebno skladište, odvojeno od Windows aplikacije.",
+    "loading": "Otvara se mesto za učenje …",
+    "retry": "Pokušaj ponovo",
+    "storageErrorTitle": "Čuvanje ili učitavanje nije moguće",
+    "STORAGE_ERROR": "Lokalno skladište nije dostupno. Proveri slobodan prostor i dozvole. Odgovor nije potvrđen; pokušaj ponovo.",
+    "STORAGE_CORRUPT": "Sačuvana datoteka je oštećena. Nije prepisana. Možeš vratiti ispravnu rezervnu kopiju.",
+    "IMPORT_INVALID": "Ovo nije ispravna Zajedno kopija (verzija 1 ili 2, najviše 10 MB). Ništa nije zamenjeno.",
+    "NAME_EXISTS": "Ovo ime već postoji.",
+    "PROFILE_LIMIT": "Moguće je napraviti najviše 24 profila.",
+    "PROFILE_MISSING": "Profil više ne postoji. Ponovo učitaj podatke.",
+    "STALE_REVIEW": "Ova kartica je već izmenjena. Pokreni novi krug.",
+    "unexpected": "Prikaz nije otvoren. Učitaj ponovo. Sačuvani napredak ostaje sačuvan.",
+    "activity": "Poslednja ponavljanja",
+    "noActivity": "Još nema ponavljanja.",
+    "direction": "Smer učenja",
+    "perPerson": "po osobi",
+    "practiceMore": "Još jedan krug",
+    "retention": "Ponavljanja prema FSRS-u",
+    "total": "Ukupno",
+    "topicProgress": "Po temama"
+  },
+  "esUIRange": [
+    379380,
+    386389
+  ]
+}

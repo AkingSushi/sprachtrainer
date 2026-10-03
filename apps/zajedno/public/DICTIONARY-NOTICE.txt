@@ -1,0 +1,25 @@
+Zajedno offline dictionary
+
+Source: German-language Wiktionary and its contributors, via Kaikki / Wiktextract.
+https://de.wiktionary.org/
+https://kaikki.org/dewiktionary/
+https://kaikki.org/dewiktionary/rawdata.html
+
+Dictionary data and adaptations: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+No endorsement by Wiktionary, Kaikki or their contributors is implied.
+
+Zajedno changes: selection of German entries with Serbian translations; selection
+of source-provided Latin forms; addition of unambiguous German articles;
+whitespace/Unicode normalization; removal of duplicates and invalid records.
+Each entry links to its source article, where contributor revision history is available.
+Adopted cards may contain additional user changes and retain source attribution.
+When sharing adapted dictionary content, retain attribution, indicate changes,
+and distribute adaptations under CC BY-SA 4.0 as required by that license.
+
+Snapshot processed: 2026-09-23.
+Archive SHA-256: 2d6c039bf012b07e4a305d5ccaa3d0fbca370916c3d53760d787162ddb1f6092
+17,061 meaning entries; 14,840 distinct text pairs.
+111 translations rejected by text/script checks; 4 invalid nonempty JSONL lines skipped.
+Not a complete dictionary. No native-speaker quality review. No automatic updates.

@@ -1,0 +1,84 @@
+{
+  "name": "zajedno",
+  "productName": "Zajedno",
+  "version": "1.3.0",
+  "private": true,
+  "description": "Deutsch und Serbisch gemeinsam lernen. Lokal und offline.",
+  "author": "Zajedno",
+  "type": "module",
+  "main": "dist-electron/main.cjs",
+  "scripts": {
+    "postinstall": "node node_modules/electron/install.js",
+    "dev": "vite --host 127.0.0.1",
+    "desktop": "node scripts/develop.mjs",
+    "test": "node --test tests/*.node.test.mjs && vitest run",
+    "dictionary:prepare": "node scripts/prepare-dictionary.mjs",
+    "test:watch": "vitest",
+    "test:desktop": "node scripts/smoke-desktop.mjs",
+    "typecheck": "tsc --noEmit && tsc -p tsconfig.electron.json --noEmit",
+    "build:electron": "node scripts/build-electron.mjs",
+    "build": "npm run typecheck && node scripts/collect-licenses.mjs && vite build && npm run build:electron",
+    "package:win": "npm run build && electron-builder --win nsis portable",
+    "package:dir": "npm run build && electron-builder --win --dir",
+    "assets": "node scripts/create-assets.mjs"
+  },
+  "dependencies": {
+    "@fontsource/nunito-sans": "^5.2.0",
+    "lucide-react": "^0.577.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "ts-fsrs": "^5.2.3",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "electron": "44.4.5",
+    "electron-builder": "26.15.3",
+    "esbuild": "^0.27.0",
+    "playwright": "^1.63.0",
+    "pngjs": "^7.0.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0",
+    "vitest": "^4.0.0"
+  },
+  "build": {
+    "appId": "org.zajedno.desktop",
+    "productName": "Zajedno",
+    "asar": true,
+    "electronDist": "node_modules/electron/dist",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "public/zajedno.ico"
+    },
+    "portable": {
+      "artifactName": "Zajedno-${version}-${arch}-portable.${ext}"
+    },
+    "nsis": {
+      "artifactName": "Zajedno-${version}-${arch}-nsis.${ext}",
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": false,
+      "allowToChangeInstallationDirectory": true,
+      "deleteAppDataOnUninstall": false,
+      "createDesktopShortcut": true,
+      "installerLanguages": [
+        "de_DE"
+      ],
+      "language": "1031"
+    }
+  }
+}

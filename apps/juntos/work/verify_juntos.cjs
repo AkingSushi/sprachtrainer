@@ -1,0 +1,41 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert'),crypto=require('crypto'),zlib=require('zlib');
+let s=fs.readFileSync('work/juntos-app/dist-electron/main.cjs','utf8');
+s=s.slice(0,s.indexOf('// electron/speech.ts'));
+const ctx={require:n=>n==='electron'?{}:require(n),module:{exports:{}},exports:{},console,Buffer,TextEncoder,Date,structuredClone,crypto,setTimeout,clearTimeout,process};
+vm.createContext(ctx);
+vm.runInContext(s+';globalThis.api={initialState,stateSchema,applyCommand,commandSchema,parseBackup,makeBackup,curriculum,LocalStore}',ctx);
+const a=ctx.api;
+let state=a.stateSchema.parse(a.initialState());
+state=a.applyCommand(state,{type:'addProfile',name:'Prüfung',target:'es',uiLanguage:'de'});
+const profile=state.activeProfileId;
+assert.equal(a.curriculum.length,720);
+assert.equal(new Set(a.curriculum.map(e=>e.id)).size,720);
+for(const e of a.curriculum){assert.equal(typeof e.es,'string');assert(e.es.length<=300);assert(e.de.length<=300);assert(!('sr' in e));}
+state=a.applyCommand(state,{type:'review',profileId:profile,target:'es',entryId:'planning-s1',expectedReps:0,rating:3});
+assert.equal(state.profiles[0].progress['planning-s1'].reps,1);
+assert.throws(()=>a.applyCommand(state,{type:'review',profileId:profile,target:'es',entryId:'planning-s1',expectedReps:0,rating:3}),/STALE_REVIEW/);
+const dict=JSON.parse(zlib.gunzipSync(fs.readFileSync('work/juntos-app/dist/dictionary.json.gz')));
+assert.equal(dict.headwords,36744);assert.equal(dict.entries.length,57601);
+const row=dict.entries.find(e=>e.de==='Haus' && e.es==='casa') || dict.entries.find(e=>e.de==='das Haus' && e.es==='casa');
+assert(row,'Haus/casa not found');
+state=a.applyCommand(state,{type:'addEntry',entry:{de:row.de,es:row.es,kind:'word',topic:'home',provenance:{provider:'FreeDict / WikDict',license:'CC-BY-SA-3.0',url:row.source,sense:row.sense}}});
+assert.equal(state.customEntries.length,1);
+assert.deepEqual(JSON.parse(JSON.stringify(a.parseBackup(a.makeBackup(state)))),JSON.parse(JSON.stringify(state)));
+const old=JSON.parse(a.makeBackup(state));old.data.curriculumVersion=1;
+assert.throws(()=>a.parseBackup(JSON.stringify(old)),/IMPORT_INVALID/);
+// The rendered answer checker must ignore inverted Spanish punctuation but retain accents and ñ.
+const front=fs.readFileSync('work/juntos-app/dist/assets/index-BcQt9-d6.js','utf8');
+const checker=front.slice(front.indexOf('function Yg('),front.indexOf('function NT('));
+const checkCtx={};vm.createContext(checkCtx);vm.runInContext(checker+';globalThis.check=wT;',checkCtx);
+assert.equal(checkCtx.check('Como estas','¿Cómo estás?'),'diacritics');
+assert.equal(checkCtx.check('Cómo estás','¿Cómo estás?'),'correct');
+assert.equal(checkCtx.check('ano','año'),'diacritics');
+assert.equal(checkCtx.check('los libros','el libro'),'incorrect');
+(async()=>{
+ const store=new a.LocalStore(require('path').resolve('work/test-store'));
+ await store.write(state);const read=await store.load();
+ assert.equal(read.profiles[0].progress['planning-s1'].reps,1);
+ await store.command({type:'favorite',profileId:profile,entryId:'planning-s1',value:true});
+ const saved=await store.load();assert(saved.profiles[0].favorites.includes('planning-s1'));
+ console.log(JSON.stringify({checks:'passed',cards:a.curriculum.length,dictionaryRows:dict.entries.length,validated:['profiles','B2 review','stale review protection','dictionary adoption','backup roundtrip','Serbian backup rejection','Spanish punctuation','accents and ñ','disk persistence']}));
+})().catch(e=>{console.error(e);process.exitCode=1});

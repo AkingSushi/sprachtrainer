@@ -1,0 +1,8 @@
+* text=auto eol=lf
+apps/juntos/base/** -text
+*.xz -text
+*.gz -text
+*.png -text
+*.ico -text
+*.woff -text
+*.woff2 -text

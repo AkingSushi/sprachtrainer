@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "greetings",
+    "de": "A1–A2 · Begrüßung & Begegnung",
+    "es": "A1–A2 · Saludos y encuentros",
+    "words": [
+      [
+        "hallo",
+        "hola"
+      ],
+      [
+        "guten Morgen",
+        "buenos días"
+      ],
+      [
+        "guten Tag",
+        "buenas tardes"
+      ],
+      [
+        "guten Abend",
+        "buenas noches"
+      ],
+      [
+        "gute Nacht",
+        "buenas noches"
+      ],
+      [
+        "auf Wiedersehen",
+        "adiós"
+      ],
+      [
+        "bis morgen",
+        "hasta mañana"
+      ],
+      [
+        "bis bald",
+        "hasta pronto"
+      ],
+      [
+        "danke",
+        "gracias"
+      ],
+      [
+        "bitte (Bitte äußern)",
+        "por favor"
+      ],
+      [
+        "Entschuldigung",
+        "perdón"
+      ],
+      [
+        "ja",
+        "sí"
+      ],
+      [
+        "nein",
+        "no"
+      ],
+      [
+        "vielleicht",
+        "quizás"
+      ],
+      [
+        "willkommen",
+        "bienvenido"
+      ],
+      [
+        "gern geschehen",
+        "de nada"
+      ],
+      [
+        "der Name",
+        "el nombre"
+      ],
+      [
+        "der Vorname",
+        "el nombre de pila"
+      ],
+      [
+        "der Nachname",
+        "el apellido"
+      ],
+      [
+        "die Sprache",
+        "el idioma"
+      ],
+      [
+        "die Frage",
+        "la pregunta"
+      ],
+      [
+        "die Antwort",
+        "la respuesta"
+      ],
+      [
+        "das Gespräch",
+        "la conversación"
+      ],
+      [
+        "der Gruß",
+        "el saludo"
+      ],
+      [
+        "verstehen",
+        "entender"
+      ],
+      [
+        "sprechen",
+        "hablar"
+      ],
+      [
+        "fragen",
+        "preguntar"
+      ],
+      [
+        "antworten",
+        "responder"
+      ],
+      [
+        "langsam",
+        "despacio"
+      ],
+      [
+        "zusammen",
+        "juntos"
+      ],
+      [
+        "noch einmal",
+        "otra vez"
+      ],
+      [
+        "herzlich",
+        "cordial"
+      ]
+    ],
+    "sentences": [
+      [
+        "Wie heißt du?",
+        "¿Cómo te llamas?"
+      ],
+      [
+        "Ich heiße Ana.",
+        "Me llamo Ana."
+      ],
+      [
+        "Wie geht es dir?",
+        "¿Cómo estás?"
+      ],
+      [
+        "Mir geht es gut, danke.",
+        "Estoy bien, gracias."
+      ],
+      [
+        "Schön, dich zu sehen.",
+        "Me alegra verte."
+      ],
+      [
+        "Bitte sprich langsam.",
+        "Por favor, habla despacio."
+      ],
+      [
+        "Ich verstehe die Frage nicht.",
+        "No entiendo la pregunta."
+      ],
+      [
+        "Kannst du das wiederholen?",
+        "¿Puedes repetirlo?"
+      ],
+      [
+        "Wir lernen zusammen.",
+        "Aprendemos juntos."
+      ],
+      [
+        "Bis morgen früh!",
+        "¡Hasta mañana por la mañana!"
+      ]
+    ]
+  },
+  {
+    "id": "home",
+    "de": "A1–A2 · Zuhause & Dinge",
+    "es": "A1–A2 · La vivienda",
+    "words": [
+      [
+        "das Haus",
+        "la casa"
+      ],
+      [
+        "die Wohnung",
+        "el apartamento"
+      ],
+      [
+        "die Tür",
+        "la puerta"
+      ],
+      [
+        "das Fenster",
+        "la ventana"
+      ],
+      [
+        "der Tisch",
+        "la mesa"
+      ],
+      [
+        "der Stuhl",
+        "la silla"
+      ],
+      [
+        "das Bett",
+        "la cama"
+      ],
+      [
+        "der Schrank",
+        "el armario"
+      ],
+      [
+        "das Sofa",
+        "el sofá"
+      ],
+      [
+        "die Lampe",
+        "la lámpara"
+      ],
+      [
+        "der Teppich",
+        "la alfombra"
+      ],
+      [
+        "der Spiegel",
+        "el espejo"
+      ],
+      [
+        "das Regal",
+        "la estantería"
+      ],
+      [
+        "das Kissen",
+        "la almohada"
+      ],
+      [
+        "die Decke",
+        "la manta"
+      ],
+      [
+        "die Wand",
+        "la pared"
+      ],
+      [
+        "der Boden",
+        "el suelo"
+      ],
+      [
+        "das Dach",
+        "el tejado"
+      ],
+      [
+        "die Treppe",
+        "la escalera"
+      ],
+      [
+        "der Schlüssel",
+        "la llave"
+      ],
+      [
+        "die Küche",
+        "la cocina"
+      ],
+      [
+        "das Badezimmer",
+        "el cuarto de baño"
+      ],
+      [
+        "das Schlafzimmer",
+        "el dormitorio"
+      ],
+      [
+        "das Wohnzimmer",
+        "la sala de estar"
+      ],
+      [
+        "der Flur",
+        "el pasillo"
+      ],
+      [
+        "der Balkon",
+        "el balcón"
+      ],
+      [
+        "der Garten",
+        "el jardín"
+      ],
+      [
+        "die Heizung",
+        "la calefacción"
+      ],
+      [
+        "die Steckdose",
+        "el enchufe"
+      ],
+      [
+        "der Vorhang",
+        "la cortina"
+      ],
+      [
+        "die Schublade",
+        "el cajón"
+      ],
+      [
+        "das Handtuch",
+        "la toalla"
+      ]
+    ],
+    "sentences": [
+      [
+        "Der Schlüssel liegt auf dem Tisch.",
+        "La llave está en la mesa."
+      ],
+      [
+        "Bitte schließe die Tür.",
+        "Por favor, cierra la puerta."
+      ],
+      [
+        "Das Fenster ist offen.",
+        "La ventana está abierta."
+      ],
+      [
+        "Die Lampe steht neben dem Bett.",
+        "La lámpara está al lado de la cama."
+      ],
+      [
+        "Wir sitzen auf dem Sofa.",
+        "Estamos sentados en el sofá."
+      ],
+      [
+        "Das Handtuch ist im Badezimmer.",
+        "La toalla está en el cuarto de baño."
+      ],
+      [
+        "Die Küche ist klein.",
+        "La cocina es pequeña."
+      ],
+      [
+        "Ich brauche ein Kissen.",
+        "Necesito una almohada."
+      ],
+      [
+        "Im Garten steht ein Tisch.",
+        "Hay una mesa en el jardín."
+      ],
+      [
+        "Die Wohnung ist warm.",
+        "El apartamento está calentito."
+      ]
+    ]
+  },
+  {
+    "id": "chores",
+    "de": "A1–A2 · Haushalt & Helfen",
+    "es": "A1–A2 · Las tareas domésticas",
+    "words": [
+      [
+        "putzen",
+        "limpiar"
+      ],
+      [
+        "waschen",
+        "lavar"
+      ],
+      [
+        "aufräumen",
+        "ordenar"
+      ],
+      [
+        "kochen",
+        "cocinar"
+      ],
+      [
+        "backen",
+        "hornear"
+      ],
+      [
+        "bügeln",
+        "planchar"
+      ],
+      [
+        "fegen",
+        "barrer"
+      ],
+      [
+        "staubsaugen",
+        "pasar la aspiradora"
+      ],
+      [
+        "trocknen",
+        "secar"
+      ],
+      [
+        "spülen",
+        "lavar los platos"
+      ],
+      [
+        "gießen",
+        "regar"
+      ],
+      [
+        "reparieren",
+        "reparar"
+      ],
+      [
+        "öffnen",
+        "abrir"
+      ],
+      [
+        "schließen",
+        "cerrar"
+      ],
+      [
+        "helfen",
+        "ayudar"
+      ],
+      [
+        "tragen",
+        "llevar"
+      ],
+      [
+        "der Besen",
+        "la escoba"
+      ],
+      [
+        "der Eimer",
+        "el cubo"
+      ],
+      [
+        "der Schwamm",
+        "la esponja"
+      ],
+      [
+        "die Seife",
+        "el jabón"
+      ],
+      [
+        "das Waschmittel",
+        "el detergente"
+      ],
+      [
+        "die Waschmaschine",
+        "la lavadora"
+      ],
+      [
+        "der Staubsauger",
+        "la aspiradora"
+      ],
+      [
+        "das Bügeleisen",
+        "la plancha"
+      ],
+      [
+        "der Müll",
+        "la basura"
+      ],
+      [
+        "der Mülleimer",
+        "el cubo de basura"
+      ],
+      [
+        "die Wäsche",
+        "la ropa para lavar"
+      ],
+      [
+        "die Spülmaschine",
+        "el lavavajillas"
+      ],
+      [
+        "sauber",
+        "limpio"
+      ],
+      [
+        "schmutzig",
+        "sucio"
+      ],
+      [
+        "trocken",
+        "seco"
+      ],
+      [
+        "nass",
+        "mojado"
+      ]
+    ],
+    "sentences": [
+      [
+        "Ich wasche heute die Wäsche.",
+        "Hoy lavo la ropa."
+      ],
+      [
+        "Kannst du mir helfen?",
+        "¿Puedes ayudarme?"
+      ],
+      [
+        "Wir räumen die Küche auf.",
+        "Ordenamos la cocina."
+      ],
+      [
+        "Der Eimer ist voll.",
+        "El cubo está lleno."
+      ],
+      [
+        "Bitte bring den Müll hinaus.",
+        "Por favor, saca la basura."
+      ],
+      [
+        "Ich gieße die Blumen.",
+        "Riego las flores."
+      ],
+      [
+        "Das Handtuch ist noch nass.",
+        "La toalla todavía está mojada."
+      ],
+      [
+        "Die Waschmaschine läuft.",
+        "La lavadora está funcionando."
+      ],
+      [
+        "Wir putzen das Fenster zusammen.",
+        "Limpiamos la ventana juntos."
+      ],
+      [
+        "Der Boden ist jetzt sauber.",
+        "El suelo está limpio ahora."
+      ]
+    ]
+  },
+  {
+    "id": "food",
+    "de": "A1–A2 · Essen & Trinken",
+    "es": "A1–A2 · La comida",
+    "words": [
+      [
+        "das Brot",
+        "el pan"
+      ],
+      [
+        "die Milch",
+        "la leche"
+      ],
+      [
+        "das Wasser",
+        "el agua"
+      ],
+      [
+        "der Kaffee",
+        "el café"
+      ],
+      [
+        "der Tee",
+        "el té"
+      ],
+      [
+        "der Saft",
+        "el zumo"
+      ],
+      [
+        "der Käse",
+        "el queso"
+      ],
+      [
+        "das Ei",
+        "el huevo"
+      ],
+      [
+        "die Butter",
+        "la mantequilla"
+      ],
+      [
+        "der Reis",
+        "el arroz"
+      ],
+      [
+        "die Kartoffel",
+        "la patata"
+      ],
+      [
+        "die Tomate",
+        "el tomate"
+      ],
+      [
+        "die Gurke",
+        "el pepino"
+      ],
+      [
+        "die Zwiebel",
+        "la cebolla"
+      ],
+      [
+        "der Apfel",
+        "la manzana"
+      ],
+      [
+        "die Birne",
+        "la pera"
+      ],
+      [
+        "die Banane",
+        "el plátano"
+      ],
+      [
+        "die Erdbeere",
+        "la fresa"
+      ],
+      [
+        "die Suppe",
+        "la sopa"
+      ],
+      [
+        "der Salat",
+        "la ensalada"
+      ],
+      [
+        "das Fleisch",
+        "la carne"
+      ],
+      [
+        "der Fisch",
+        "el pescado"
+      ],
+      [
+        "das Salz",
+        "la sal"
+      ],
+      [
+        "der Zucker",
+        "el azúcar"
+      ],
+      [
+        "der Teller",
+        "el plato"
+      ],
+      [
+        "die Tasse",
+        "la taza"
+      ],
+      [
+        "das Glas",
+        "el vaso"
+      ],
+      [
+        "die Gabel",
+        "el tenedor"
+      ],
+      [
+        "das Messer",
+        "el cuchillo"
+      ],
+      [
+        "der Löffel",
+        "la cuchara"
+      ],
+      [
+        "das Frühstück",
+        "el desayuno"
+      ],
+      [
+        "das Abendessen",
+        "la cena"
+      ]
+    ],
+    "sentences": [
+      [
+        "Möchtest du einen Tee?",
+        "¿Quieres un té?"
+      ],
+      [
+        "Ich trinke Kaffee ohne Zucker.",
+        "Bebo café sin azúcar."
+      ],
+      [
+        "Das Brot ist frisch.",
+        "El pan está fresco."
+      ],
+      [
+        "Bitte gib mir das Salz.",
+        "Por favor, dame la sal."
+      ],
+      [
+        "Die Suppe ist noch heiß.",
+        "La sopa todavía está caliente."
+      ],
+      [
+        "Wir essen um sieben Uhr.",
+        "Comemos a las siete."
+      ],
+      [
+        "Ich möchte ein Glas Wasser.",
+        "Quisiera un vaso de agua."
+      ],
+      [
+        "Der Käse ist im Kühlschrank.",
+        "El queso está en la nevera."
+      ],
+      [
+        "Das Frühstück ist fertig.",
+        "El desayuno está listo."
+      ],
+      [
+        "Guten Appetit!",
+        "¡Buen provecho!"
+      ]
+    ]
+  },
+  {
+    "id": "family",
+    "de": "A1–A2 · Familie & Menschen",
+    "es": "A1–A2 · La familia y los amigos",
+    "words": [
+      [
+        "die Familie",
+        "la familia"
+      ],
+      [
+        "die Mutter",
+        "la madre"
+      ],
+      [
+        "der Vater",
+        "el padre"
+      ],
+      [
+        "die Eltern",
+        "los padres"
+      ],
+      [
+        "die Tochter",
+        "la hija"
+      ],
+      [
+        "der Sohn",
+        "el hijo"
+      ],
+      [
+        "die Schwester",
+        "la hermana"
+      ],
+      [
+        "der Bruder",
+        "el hermano"
+      ],
+      [
+        "die Großmutter",
+        "la abuela"
+      ],
+      [
+        "der Großvater",
+        "el abuelo"
+      ],
+      [
+        "das Kind",
+        "el niño"
+      ],
+      [
+        "das Baby",
+        "el bebé"
+      ],
+      [
+        "die Frau",
+        "la mujer"
+      ],
+      [
+        "der Mann",
+        "el hombre"
+      ],
+      [
+        "die Freundin",
+        "la amiga"
+      ],
+      [
+        "der Freund",
+        "el amigo"
+      ],
+      [
+        "die Nachbarin",
+        "la vecina"
+      ],
+      [
+        "der Nachbar",
+        "el vecino"
+      ],
+      [
+        "der Mensch",
+        "la persona"
+      ],
+      [
+        "die Leute",
+        "la gente"
+      ],
+      [
+        "der Geburtstag",
+        "el cumpleaños"
+      ],
+      [
+        "das Geschenk",
+        "el regalo"
+      ],
+      [
+        "der Besuch",
+        "la visita"
+      ],
+      [
+        "die Hochzeit",
+        "la boda"
+      ],
+      [
+        "die Liebe",
+        "el amor"
+      ],
+      [
+        "die Freude",
+        "la alegría"
+      ],
+      [
+        "lachen",
+        "reír"
+      ],
+      [
+        "spielen",
+        "jugar"
+      ],
+      [
+        "besuchen",
+        "visitar"
+      ],
+      [
+        "feiern",
+        "celebrar"
+      ],
+      [
+        "jung",
+        "joven"
+      ],
+      [
+        "alt",
+        "viejo"
+      ]
+    ],
+    "sentences": [
+      [
+        "Meine Schwester kommt heute.",
+        "Mi hermana viene hoy."
+      ],
+      [
+        "Wie heißt dein Bruder?",
+        "¿Cómo se llama tu hermano?"
+      ],
+      [
+        "Die Kinder spielen im Garten.",
+        "Los niños juegan en el jardín."
+      ],
+      [
+        "Wir besuchen unsere Eltern.",
+        "Visitamos a nuestros padres."
+      ],
+      [
+        "Meine Mutter hat morgen Geburtstag.",
+        "Mañana es el cumpleaños de mi madre."
+      ],
+      [
+        "Das Geschenk ist für dich.",
+        "El regalo es para ti."
+      ],
+      [
+        "Mein Vater kocht gern.",
+        "A mi padre le gusta cocinar."
+      ],
+      [
+        "Die Nachbarin hilft uns.",
+        "La vecina nos ayuda."
+      ],
+      [
+        "Unsere Familie ist groß.",
+        "Nuestra familia es grande."
+      ],
+      [
+        "Wir feiern am Samstag.",
+        "Celebramos el sábado."
+      ]
+    ]
+  },
+  {
+    "id": "work",
+    "de": "A1–A2 · Arbeit & Lernen",
+    "es": "A1–A2 · El trabajo y el aprendizaje",
+    "words": [
+      [
+        "die Arbeit",
+        "el trabajo"
+      ],
+      [
+        "das Büro",
+        "la oficina"
+      ],
+      [
+        "die Firma",
+        "la empresa"
+      ],
+      [
+        "der Beruf",
+        "la profesión"
+      ],
+      [
+        "die Kollegin",
+        "la compañera de trabajo"
+      ],
+      [
+        "der Kollege",
+        "el compañero de trabajo"
+      ],
+      [
+        "die Chefin",
+        "la jefa"
+      ],
+      [
+        "der Chef",
+        "el jefe"
+      ],
+      [
+        "der Computer",
+        "el ordenador"
+      ],
+      [
+        "die Tastatur",
+        "el teclado"
+      ],
+      [
+        "der Bildschirm",
+        "la pantalla"
+      ],
+      [
+        "der Drucker",
+        "la impresora"
+      ],
+      [
+        "das Telefon",
+        "el teléfono"
+      ],
+      [
+        "die Nachricht",
+        "el mensaje"
+      ],
+      [
+        "der Brief",
+        "la carta"
+      ],
+      [
+        "das Papier",
+        "el papel"
+      ],
+      [
+        "der Stift",
+        "el bolígrafo"
+      ],
+      [
+        "das Heft",
+        "el cuaderno"
+      ],
+      [
+        "das Buch",
+        "el libro"
+      ],
+      [
+        "die Schule",
+        "la escuela"
+      ],
+      [
+        "die Lehrerin",
+        "la profesora"
+      ],
+      [
+        "der Lehrer",
+        "el profesor"
+      ],
+      [
+        "die Aufgabe",
+        "la tarea"
+      ],
+      [
+        "die Pause",
+        "el descanso"
+      ],
+      [
+        "arbeiten",
+        "trabajar"
+      ],
+      [
+        "lernen",
+        "aprender"
+      ],
+      [
+        "lesen",
+        "leer"
+      ],
+      [
+        "schreiben",
+        "escribir"
+      ],
+      [
+        "zuhören",
+        "escuchar"
+      ],
+      [
+        "erklären",
+        "explicar"
+      ],
+      [
+        "üben",
+        "practicar"
+      ],
+      [
+        "fertig",
+        "listo"
+      ]
+    ],
+    "sentences": [
+      [
+        "Ich arbeite heute zu Hause.",
+        "Hoy trabajo en casa."
+      ],
+      [
+        "Die Pause beginnt um zwölf Uhr.",
+        "El descanso empieza a las doce."
+      ],
+      [
+        "Mein Computer ist langsam.",
+        "Mi ordenador es lento."
+      ],
+      [
+        "Bitte schreibe deinen Namen.",
+        "Por favor, escribe tu nombre."
+      ],
+      [
+        "Ich lese ein Buch.",
+        "Leo un libro."
+      ],
+      [
+        "Die Kollegin erklärt die Aufgabe.",
+        "La compañera de trabajo explica la tarea."
+      ],
+      [
+        "Wir üben jeden Tag.",
+        "Practicamos todos los días."
+      ],
+      [
+        "Wo ist mein Stift?",
+        "¿Dónde está mi bolígrafo?"
+      ],
+      [
+        "Ich brauche eine Pause.",
+        "Necesito un descanso."
+      ],
+      [
+        "Die Nachricht ist für dich.",
+        "El mensaje es para ti."
+      ]
+    ]
+  },
+  {
+    "id": "shopping",
+    "de": "A1–A2 · Einkaufen & Kleidung",
+    "es": "A1–A2 · Las compras",
+    "words": [
+      [
+        "das Geschäft",
+        "la tienda"
+      ],
+      [
+        "der Supermarkt",
+        "el supermercado"
+      ],
+      [
+        "der Markt",
+        "el mercado"
+      ],
+      [
+        "die Bäckerei",
+        "la panadería"
+      ],
+      [
+        "die Kasse",
+        "la caja"
+      ],
+      [
+        "der Preis",
+        "el precio"
+      ],
+      [
+        "das Geld",
+        "el dinero"
+      ],
+      [
+        "die Rechnung",
+        "la factura"
+      ],
+      [
+        "die Tasche",
+        "la bolsa"
+      ],
+      [
+        "der Korb",
+        "la cesta"
+      ],
+      [
+        "die Flasche",
+        "la botella"
+      ],
+      [
+        "die Packung",
+        "el paquete"
+      ],
+      [
+        "das Angebot",
+        "la oferta"
+      ],
+      [
+        "der Rabatt",
+        "el descuento"
+      ],
+      [
+        "die Größe",
+        "la talla"
+      ],
+      [
+        "die Farbe",
+        "el color"
+      ],
+      [
+        "die Hose",
+        "los pantalones"
+      ],
+      [
+        "das Hemd",
+        "la camisa"
+      ],
+      [
+        "das Kleid",
+        "el vestido"
+      ],
+      [
+        "die Jacke",
+        "la chaqueta"
+      ],
+      [
+        "der Schuh",
+        "el zapato"
+      ],
+      [
+        "die Socke",
+        "el calcetín"
+      ],
+      [
+        "der Hut",
+        "el sombrero"
+      ],
+      [
+        "der Mantel",
+        "el abrigo"
+      ],
+      [
+        "kaufen",
+        "comprar"
+      ],
+      [
+        "bezahlen",
+        "pagar"
+      ],
+      [
+        "kosten",
+        "costar"
+      ],
+      [
+        "suchen",
+        "buscar"
+      ],
+      [
+        "billig",
+        "barato"
+      ],
+      [
+        "teuer",
+        "caro"
+      ],
+      [
+        "klein",
+        "pequeño"
+      ],
+      [
+        "groß",
+        "grande"
+      ]
+    ],
+    "sentences": [
+      [
+        "Wie viel kostet das?",
+        "¿Cuánto cuesta esto?"
+      ],
+      [
+        "Ich bezahle mit Karte.",
+        "Pago con tarjeta."
+      ],
+      [
+        "Haben Sie eine Tasche?",
+        "¿Tiene una bolsa?"
+      ],
+      [
+        "Ich suche eine Jacke.",
+        "Busco una chaqueta."
+      ],
+      [
+        "Die Schuhe sind zu klein.",
+        "Los zapatos son demasiado pequeños."
+      ],
+      [
+        "Wo ist die Kasse?",
+        "¿Dónde está la caja?"
+      ],
+      [
+        "Ich brauche zwei Flaschen Wasser.",
+        "Necesito dos botellas de agua."
+      ],
+      [
+        "Das Geschäft ist heute geschlossen.",
+        "La tienda está cerrada hoy."
+      ],
+      [
+        "Bitte geben Sie mir die Rechnung.",
+        "Por favor, deme la factura."
+      ],
+      [
+        "Wir kaufen Brot auf dem Markt.",
+        "Compramos pan en el mercado."
+      ]
+    ]
+  },
+  {
+    "id": "time",
+    "de": "A1–A2 · Zeit & Alltag",
+    "es": "A1–A2 · El tiempo y las citas",
+    "words": [
+      [
+        "heute",
+        "hoy"
+      ],
+      [
+        "morgen",
+        "mañana"
+      ],
+      [
+        "gestern",
+        "ayer"
+      ],
+      [
+        "jetzt",
+        "ahora"
+      ],
+      [
+        "später",
+        "más tarde"
+      ],
+      [
+        "früh",
+        "temprano"
+      ],
+      [
+        "spät",
+        "tarde"
+      ],
+      [
+        "immer",
+        "siempre"
+      ],
+      [
+        "oft",
+        "a menudo"
+      ],
+      [
+        "manchmal",
+        "a veces"
+      ],
+      [
+        "nie",
+        "nunca"
+      ],
+      [
+        "bald",
+        "pronto"
+      ],
+      [
+        "der Tag",
+        "el día"
+      ],
+      [
+        "die Woche",
+        "la semana"
+      ],
+      [
+        "der Monat",
+        "el mes"
+      ],
+      [
+        "das Jahr",
+        "el año"
+      ],
+      [
+        "die Stunde",
+        "la hora"
+      ],
+      [
+        "die Minute",
+        "el minuto"
+      ],
+      [
+        "die Sekunde",
+        "el segundo"
+      ],
+      [
+        "der Morgen",
+        "la mañana"
+      ],
+      [
+        "der Mittag",
+        "el mediodía"
+      ],
+      [
+        "der Abend",
+        "la tarde"
+      ],
+      [
+        "die Nacht",
+        "la noche"
+      ],
+      [
+        "das Wochenende",
+        "el fin de semana"
+      ],
+      [
+        "Montag",
+        "lunes"
+      ],
+      [
+        "Dienstag",
+        "martes"
+      ],
+      [
+        "Mittwoch",
+        "miércoles"
+      ],
+      [
+        "Donnerstag",
+        "jueves"
+      ],
+      [
+        "Freitag",
+        "viernes"
+      ],
+      [
+        "Samstag",
+        "sábado"
+      ],
+      [
+        "Sonntag",
+        "domingo"
+      ],
+      [
+        "der Kalender",
+        "el calendario"
+      ]
+    ],
+    "sentences": [
+      [
+        "Wie spät ist es?",
+        "¿Qué hora es?"
+      ],
+      [
+        "Heute ist Montag.",
+        "Hoy es lunes."
+      ],
+      [
+        "Morgen habe ich Zeit.",
+        "Mañana tengo tiempo."
+      ],
+      [
+        "Wir treffen uns am Abend.",
+        "Nos vemos por la tarde."
+      ],
+      [
+        "Ich komme in zehn Minuten.",
+        "Llego en diez minutos."
+      ],
+      [
+        "Am Sonntag bleiben wir zu Hause.",
+        "El domingo nos quedamos en casa."
+      ],
+      [
+        "Der Termin ist nächste Woche.",
+        "La cita es la semana que viene."
+      ],
+      [
+        "Ich stehe früh auf.",
+        "Me levanto temprano."
+      ],
+      [
+        "Warte bitte einen Moment.",
+        "Espera un momento, por favor."
+      ],
+      [
+        "Jetzt ist Zeit für eine Pause.",
+        "Ahora es hora de hacer un descanso."
+      ]
+    ]
+  },
+  {
+    "id": "travel",
+    "de": "A1–A2 · Unterwegs & Draußen",
+    "es": "A1–A2 · Los viajes y la naturaleza",
+    "words": [
+      [
+        "die Straße",
+        "la calle"
+      ],
+      [
+        "der Weg",
+        "el camino"
+      ],
+      [
+        "die Stadt",
+        "la ciudad"
+      ],
+      [
+        "das Dorf",
+        "el pueblo"
+      ],
+      [
+        "der Bahnhof",
+        "la estación de tren"
+      ],
+      [
+        "die Haltestelle",
+        "la parada"
+      ],
+      [
+        "der Bus",
+        "el autobús"
+      ],
+      [
+        "der Zug",
+        "el tren"
+      ],
+      [
+        "das Auto",
+        "el coche"
+      ],
+      [
+        "das Fahrrad",
+        "la bicicleta"
+      ],
+      [
+        "die Fahrkarte",
+        "el billete"
+      ],
+      [
+        "der Koffer",
+        "la maleta"
+      ],
+      [
+        "die Reise",
+        "el viaje"
+      ],
+      [
+        "der Urlaub",
+        "las vacaciones"
+      ],
+      [
+        "der Park",
+        "el parque"
+      ],
+      [
+        "der Wald",
+        "el bosque"
+      ],
+      [
+        "der Baum",
+        "el árbol"
+      ],
+      [
+        "die Blume",
+        "la flor"
+      ],
+      [
+        "der Fluss",
+        "el río"
+      ],
+      [
+        "der See",
+        "el lago"
+      ],
+      [
+        "der Berg",
+        "la montaña"
+      ],
+      [
+        "die Sonne",
+        "el sol"
+      ],
+      [
+        "der Regen",
+        "la lluvia"
+      ],
+      [
+        "der Schnee",
+        "la nieve"
+      ],
+      [
+        "der Wind",
+        "el viento"
+      ],
+      [
+        "links",
+        "a la izquierda"
+      ],
+      [
+        "rechts",
+        "a la derecha"
+      ],
+      [
+        "geradeaus",
+        "todo recto"
+      ],
+      [
+        "gehen",
+        "ir a pie"
+      ],
+      [
+        "fahren",
+        "ir en un vehículo"
+      ],
+      [
+        "warten",
+        "esperar"
+      ],
+      [
+        "ankommen",
+        "llegar"
+      ]
+    ],
+    "sentences": [
+      [
+        "Wo ist die nächste Haltestelle?",
+        "¿Dónde está la parada más cercana?"
+      ],
+      [
+        "Der Bus kommt gleich.",
+        "El autobús llega enseguida."
+      ],
+      [
+        "Wir gehen zu Fuß.",
+        "Vamos a pie."
+      ],
+      [
+        "Biegen Sie bitte links ab.",
+        "Gire a la izquierda, por favor."
+      ],
+      [
+        "Ich brauche eine Fahrkarte.",
+        "Necesito un billete."
+      ],
+      [
+        "Heute scheint die Sonne.",
+        "Hoy hace sol."
+      ],
+      [
+        "Es regnet seit dem Morgen.",
+        "Llueve desde esta mañana."
+      ],
+      [
+        "Wir machen einen Spaziergang.",
+        "Damos un paseo."
+      ],
+      [
+        "Der Park ist neben dem Bahnhof.",
+        "El parque está al lado de la estación de tren."
+      ],
+      [
+        "Wann kommt der Zug an?",
+        "¿Cuándo llega el tren?"
+      ]
+    ]
+  },
+  {
+    "id": "health",
+    "de": "A1–A2 · Körper & Wohlbefinden",
+    "es": "A1–A2 · La salud",
+    "words": [
+      [
+        "der Kopf",
+        "la cabeza"
+      ],
+      [
+        "die Hand",
+        "la mano"
+      ],
+      [
+        "der Fuß",
+        "el pie"
+      ],
+      [
+        "das Bein",
+        "la pierna"
+      ],
+      [
+        "das Auge",
+        "el ojo"
+      ],
+      [
+        "das Ohr",
+        "la oreja"
+      ],
+      [
+        "die Nase",
+        "la nariz"
+      ],
+      [
+        "der Mund",
+        "la boca"
+      ],
+      [
+        "der Zahn",
+        "el diente"
+      ],
+      [
+        "der Rücken",
+        "la espalda"
+      ],
+      [
+        "der Bauch",
+        "la barriga"
+      ],
+      [
+        "das Herz",
+        "el corazón"
+      ],
+      [
+        "die Ärztin",
+        "la médica"
+      ],
+      [
+        "der Arzt",
+        "el médico"
+      ],
+      [
+        "die Apotheke",
+        "la farmacia"
+      ],
+      [
+        "das Krankenhaus",
+        "el hospital"
+      ],
+      [
+        "das Medikament",
+        "el medicamento"
+      ],
+      [
+        "das Rezept",
+        "la receta"
+      ],
+      [
+        "der Schmerz",
+        "el dolor"
+      ],
+      [
+        "das Fieber",
+        "la fiebre"
+      ],
+      [
+        "der Husten",
+        "la tos"
+      ],
+      [
+        "die Erkältung",
+        "el resfriado"
+      ],
+      [
+        "die Gesundheit",
+        "la salud"
+      ],
+      [
+        "die Ruhe",
+        "la tranquilidad"
+      ],
+      [
+        "müde",
+        "cansado"
+      ],
+      [
+        "gesund",
+        "sano"
+      ],
+      [
+        "krank",
+        "enfermo"
+      ],
+      [
+        "durstig",
+        "sediento"
+      ],
+      [
+        "hungrig",
+        "hambriento"
+      ],
+      [
+        "schlafen",
+        "dormir"
+      ],
+      [
+        "atmen",
+        "respirar"
+      ],
+      [
+        "sich ausruhen",
+        "descansar"
+      ]
+    ],
+    "sentences": [
+      [
+        "Mein Kopf tut weh.",
+        "Me duele la cabeza."
+      ],
+      [
+        "Ich brauche einen Arzt.",
+        "Necesito un médico."
+      ],
+      [
+        "Wo ist die nächste Apotheke?",
+        "¿Dónde está la farmacia más cercana?"
+      ],
+      [
+        "Bitte trink etwas Wasser.",
+        "Por favor, bebe un poco de agua."
+      ],
+      [
+        "Ich möchte mich ausruhen.",
+        "Quiero descansar."
+      ],
+      [
+        "Wie fühlst du dich?",
+        "¿Cómo te sientes?"
+      ],
+      [
+        "Mir ist kalt.",
+        "Tengo frío."
+      ],
+      [
+        "Mir ist warm.",
+        "Tengo calor."
+      ],
+      [
+        "Ich habe heute gut geschlafen.",
+        "Hoy he dormido bien."
+      ],
+      [
+        "Gute Besserung!",
+        "¡Que te mejores!"
+      ]
+    ]
+  },
+  {
+    "id": "opinions",
+    "de": "B1 · Meinungen & Argumente",
+    "es": "B1 · Opiniones y argumentos",
+    "words": [
+      [
+        "die Meinung",
+        "la opinión"
+      ],
+      [
+        "das Argument",
+        "el argumento"
+      ],
+      [
+        "der Standpunkt",
+        "el punto de vista"
+      ],
+      [
+        "der Vorteil",
+        "la ventaja"
+      ],
+      [
+        "der Nachteil",
+        "la desventaja"
+      ],
+      [
+        "die Begründung",
+        "la justificación"
+      ],
+      [
+        "die Schlussfolgerung",
+        "la conclusión"
+      ],
+      [
+        "der Beweis",
+        "la prueba"
+      ],
+      [
+        "der Zweifel",
+        "la duda"
+      ],
+      [
+        "die Überzeugung",
+        "la convicción"
+      ],
+      [
+        "die Voraussetzung",
+        "el requisito"
+      ],
+      [
+        "der Zusammenhang",
+        "la relación"
+      ],
+      [
+        "der Gegensatz",
+        "el contraste"
+      ],
+      [
+        "die Ausnahme",
+        "la excepción"
+      ],
+      [
+        "die Behauptung",
+        "la afirmación"
+      ],
+      [
+        "zustimmen",
+        "estar de acuerdo"
+      ],
+      [
+        "widersprechen",
+        "discrepar"
+      ],
+      [
+        "begründen",
+        "justificar"
+      ],
+      [
+        "überzeugen",
+        "convencer"
+      ],
+      [
+        "abwägen",
+        "sopesar"
+      ],
+      [
+        "vergleichen",
+        "comparar"
+      ],
+      [
+        "berücksichtigen",
+        "tener en cuenta"
+      ],
+      [
+        "behaupten",
+        "afirmar"
+      ],
+      [
+        "bezweifeln",
+        "poner en duda"
+      ],
+      [
+        "allerdings",
+        "sin embargo"
+      ],
+      [
+        "obwohl",
+        "aunque"
+      ],
+      [
+        "deshalb",
+        "por eso"
+      ],
+      [
+        "dennoch",
+        "aun así"
+      ],
+      [
+        "einerseits",
+        "por un lado"
+      ],
+      [
+        "andererseits",
+        "por otro lado"
+      ]
+    ],
+    "sentences": [
+      [
+        "Meiner Meinung nach sollten wir mehr Zeit einplanen.",
+        "En mi opinión, deberíamos prever más tiempo."
+      ],
+      [
+        "Ich bin damit einverstanden, solange die Kosten nicht steigen.",
+        "Estoy de acuerdo con eso, siempre que no aumenten los costes."
+      ],
+      [
+        "Obwohl dein Vorschlag sinnvoll ist, habe ich noch Zweifel.",
+        "Aunque tu propuesta es razonable, todavía tengo dudas."
+      ],
+      [
+        "Es ist wichtig, dass wir beide Seiten berücksichtigen.",
+        "Es importante que tengamos en cuenta ambas partes."
+      ],
+      [
+        "Ich glaube nicht, dass diese Lösung für alle geeignet ist.",
+        "No creo que esta solución sea adecuada para todos."
+      ],
+      [
+        "Einerseits sparen wir Geld, andererseits verlieren wir Zeit.",
+        "Por un lado ahorramos dinero; por otro lado perdemos tiempo."
+      ],
+      [
+        "Kannst du erklären, worauf sich deine Meinung stützt?",
+        "¿Puedes explicar en qué se basa tu opinión?"
+      ],
+      [
+        "Je mehr Informationen wir haben, desto besser können wir entscheiden.",
+        "Cuanta más información tengamos, mejor podremos decidir."
+      ],
+      [
+        "Das bedeutet nicht unbedingt, dass du recht hast.",
+        "Eso no significa necesariamente que tengas razón."
+      ],
+      [
+        "Ich würde zustimmen, wenn es dafür überzeugende Beweise gäbe.",
+        "Estaría de acuerdo si hubiera pruebas convincentes de ello."
+      ],
+      [
+        "Wir sollten die Vorteile gegen die Nachteile abwägen.",
+        "Deberíamos sopesar las ventajas y las desventajas."
+      ],
+      [
+        "Was spricht deiner Ansicht nach gegen diesen Vorschlag?",
+        "¿Qué argumentos hay, en tu opinión, en contra de esta propuesta?"
+      ],
+      [
+        "Es wäre besser, zunächst die Ursachen zu untersuchen.",
+        "Sería mejor investigar primero las causas."
+      ],
+      [
+        "Ich bezweifle, dass sich das Problem von selbst löst.",
+        "Dudo que el problema se resuelva por sí solo."
+      ],
+      [
+        "Trotz der Schwierigkeiten halte ich das Ziel für erreichbar.",
+        "A pesar de las dificultades, considero que el objetivo es alcanzable."
+      ],
+      [
+        "Lass uns auf die ursprüngliche Frage zurückkommen.",
+        "Volvamos a la pregunta inicial."
+      ],
+      [
+        "Dieser Vergleich überzeugt mich nicht, weil die Bedingungen verschieden sind.",
+        "Esta comparación no me convence porque las condiciones son diferentes."
+      ],
+      [
+        "Wir sind zu dem Schluss gekommen, dass wir den Plan ändern müssen.",
+        "Hemos llegado a la conclusión de que debemos cambiar el plan."
+      ],
+      [
+        "Ich verstehe deinen Standpunkt, teile ihn aber nicht vollständig.",
+        "Entiendo tu punto de vista, pero no lo comparto del todo."
+      ],
+      [
+        "Entscheidend ist, ob die Lösung langfristig funktioniert.",
+        "Lo decisivo es si la solución funciona a largo plazo."
+      ]
+    ]
+  },
+  {
+    "id": "experiences",
+    "de": "B1 · Erlebnisse & Vergangenheit",
+    "es": "B1 · Experiencias y pasado",
+    "words": [
+      [
+        "die Erfahrung",
+        "la experiencia"
+      ],
+      [
+        "die Erinnerung",
+        "el recuerdo"
+      ],
+      [
+        "die Kindheit",
+        "la infancia"
+      ],
+      [
+        "die Jugend",
+        "la juventud"
+      ],
+      [
+        "die Gewohnheit",
+        "la costumbre"
+      ],
+      [
+        "das Ereignis",
+        "el acontecimiento"
+      ],
+      [
+        "die Überraschung",
+        "la sorpresa"
+      ],
+      [
+        "die Enttäuschung",
+        "la decepción"
+      ],
+      [
+        "der Erfolg",
+        "el éxito"
+      ],
+      [
+        "der Misserfolg",
+        "el fracaso"
+      ],
+      [
+        "der Umzug",
+        "la mudanza"
+      ],
+      [
+        "die Begegnung",
+        "el encuentro"
+      ],
+      [
+        "die Gelegenheit",
+        "la oportunidad"
+      ],
+      [
+        "das Abenteuer",
+        "la aventura"
+      ],
+      [
+        "die Veränderung",
+        "el cambio"
+      ],
+      [
+        "sich erinnern",
+        "recordar"
+      ],
+      [
+        "vergessen",
+        "olvidar"
+      ],
+      [
+        "erleben",
+        "vivir una experiencia"
+      ],
+      [
+        "entdecken",
+        "descubrir"
+      ],
+      [
+        "aufwachsen",
+        "crecer"
+      ],
+      [
+        "sich gewöhnen",
+        "acostumbrarse"
+      ],
+      [
+        "vermissen",
+        "echar de menos"
+      ],
+      [
+        "geschehen",
+        "ocurrir"
+      ],
+      [
+        "erzählen",
+        "contar"
+      ],
+      [
+        "bereuen",
+        "arrepentirse"
+      ],
+      [
+        "damals",
+        "entonces"
+      ],
+      [
+        "früher",
+        "antes"
+      ],
+      [
+        "inzwischen",
+        "mientras tanto"
+      ],
+      [
+        "plötzlich",
+        "de repente"
+      ],
+      [
+        "seitdem",
+        "desde entonces"
+      ]
+    ],
+    "sentences": [
+      [
+        "Als ich klein war, verbrachte ich jeden Sommer bei meinen Großeltern.",
+        "Cuando era pequeño, pasaba todos los veranos con mis abuelos."
+      ],
+      [
+        "Gestern traf ich jemanden, den ich seit Jahren nicht gesehen hatte.",
+        "Ayer me encontré con alguien a quien no había visto desde hacía años."
+      ],
+      [
+        "Während wir zu Abend aßen, klingelte das Telefon.",
+        "Mientras cenábamos, sonó el teléfono."
+      ],
+      [
+        "Ich hatte die Fahrkarte schon gekauft, bevor die Reise abgesagt wurde.",
+        "Ya había comprado el billete antes de que se cancelara el viaje."
+      ],
+      [
+        "Seit ich umgezogen bin, gehe ich öfter zu Fuß.",
+        "Desde que me mudé, voy a pie más a menudo."
+      ],
+      [
+        "Früher dachte ich, dass das Lernen einer Sprache leicht wäre.",
+        "Antes pensaba que aprender un idioma sería fácil."
+      ],
+      [
+        "Wir waren gerade angekommen, als es zu regnen begann.",
+        "Acabábamos de llegar cuando empezó a llover."
+      ],
+      [
+        "Ich erinnere mich noch genau an den Tag, an dem wir uns kennengelernt haben.",
+        "Todavía recuerdo perfectamente el día en que nos conocimos."
+      ],
+      [
+        "Hättest du mich gefragt, hätte ich dir geholfen.",
+        "Si me hubieras preguntado, te habría ayudado."
+      ],
+      [
+        "Ich bereue, dass ich damals nicht mehr Fragen gestellt habe.",
+        "Me arrepiento de no haber hecho más preguntas entonces."
+      ],
+      [
+        "Diese Erfahrung hat meine Sicht auf die Dinge verändert.",
+        "Esta experiencia ha cambiado mi forma de ver las cosas."
+      ],
+      [
+        "Als wir dort wohnten, kannten wir alle Nachbarn.",
+        "Cuando vivíamos allí, conocíamos a todos los vecinos."
+      ],
+      [
+        "Ich habe noch nie einen so schönen Sonnenuntergang gesehen.",
+        "Nunca he visto una puesta de sol tan bonita."
+      ],
+      [
+        "Nachdem sie die Prüfung bestanden hatte, feierte sie mit ihren Freunden.",
+        "Después de haber aprobado el examen, lo celebró con sus amigos."
+      ],
+      [
+        "Am Anfang fiel es mir schwer, mich an den Alltag zu gewöhnen.",
+        "Al principio me costaba acostumbrarme a la vida cotidiana."
+      ],
+      [
+        "Was hättest du an meiner Stelle getan?",
+        "¿Qué habrías hecho en mi lugar?"
+      ],
+      [
+        "Ich wusste nicht, dass ihr schon abgereist wart.",
+        "No sabía que ya os habíais marchado."
+      ],
+      [
+        "Je länger ich dort blieb, desto wohler fühlte ich mich.",
+        "Cuanto más tiempo me quedaba allí, más a gusto me sentía."
+      ],
+      [
+        "Damals hätten wir uns diese Entwicklung nicht vorstellen können.",
+        "Entonces no habríamos podido imaginar esta evolución."
+      ],
+      [
+        "Das war eine Gelegenheit, die ich nicht verpassen wollte.",
+        "Era una oportunidad que no quería perder."
+      ]
+    ]
+  },
+  {
+    "id": "career",
+    "de": "B1–B2 · Beruf & Entscheidungen",
+    "es": "B1–B2 · Trabajo y decisiones",
+    "words": [
+      [
+        "die Bewerbung",
+        "la solicitud de empleo"
+      ],
+      [
+        "das Vorstellungsgespräch",
+        "la entrevista de trabajo"
+      ],
+      [
+        "der Lebenslauf",
+        "el currículum"
+      ],
+      [
+        "die Ausbildung",
+        "la formación profesional"
+      ],
+      [
+        "die Weiterbildung",
+        "la formación continua"
+      ],
+      [
+        "die Verantwortung",
+        "la responsabilidad"
+      ],
+      [
+        "die Frist",
+        "el plazo"
+      ],
+      [
+        "die Vereinbarung",
+        "el acuerdo"
+      ],
+      [
+        "die Verhandlung",
+        "la negociación"
+      ],
+      [
+        "das Gehalt",
+        "el salario"
+      ],
+      [
+        "die Kündigung",
+        "el despido"
+      ],
+      [
+        "der Vertrag",
+        "el contrato"
+      ],
+      [
+        "die Arbeitsbelastung",
+        "la carga de trabajo"
+      ],
+      [
+        "die Zusammenarbeit",
+        "la colaboración"
+      ],
+      [
+        "die Beförderung",
+        "el ascenso"
+      ],
+      [
+        "sich bewerben",
+        "solicitar un empleo"
+      ],
+      [
+        "einstellen (Personal)",
+        "contratar"
+      ],
+      [
+        "kündigen (selbst)",
+        "renunciar"
+      ],
+      [
+        "verhandeln",
+        "negociar"
+      ],
+      [
+        "vereinbaren",
+        "acordar"
+      ],
+      [
+        "erledigen",
+        "llevar a cabo"
+      ],
+      [
+        "verschieben",
+        "aplazar"
+      ],
+      [
+        "delegieren",
+        "delegar"
+      ],
+      [
+        "bewerten",
+        "evaluar"
+      ],
+      [
+        "scheitern",
+        "fracasar"
+      ],
+      [
+        "zuverlässig",
+        "fiable"
+      ],
+      [
+        "verfügbar",
+        "disponible"
+      ],
+      [
+        "zuständig",
+        "responsable"
+      ],
+      [
+        "fristgerecht",
+        "dentro del plazo"
+      ],
+      [
+        "langfristig",
+        "a largo plazo"
+      ]
+    ],
+    "sentences": [
+      [
+        "Ich möchte mich um die ausgeschriebene Stelle bewerben.",
+        "Quisiera solicitar el puesto anunciado."
+      ],
+      [
+        "Könnten Sie mir mitteilen, welche Unterlagen noch fehlen?",
+        "¿Podría indicarme qué documentos faltan todavía?"
+      ],
+      [
+        "Bevor ich den Vertrag unterschreibe, möchte ich die Bedingungen klären.",
+        "Antes de firmar el contrato, quisiera aclarar las condiciones."
+      ],
+      [
+        "Falls der Termin verschoben wird, informieren Sie mich bitte rechtzeitig.",
+        "Si se aplaza la cita, infórmeme con suficiente antelación, por favor."
+      ],
+      [
+        "Es ist notwendig, dass alle die Frist einhalten.",
+        "Es necesario que todos cumplan el plazo."
+      ],
+      [
+        "Ich hätte die Aufgabe früher erledigt, wenn die Informationen vollständig gewesen wären.",
+        "Habría terminado la tarea antes si la información hubiera estado completa."
+      ],
+      [
+        "Wir müssen entscheiden, welche Aufgaben wir delegieren können.",
+        "Tenemos que decidir qué tareas podemos delegar."
+      ],
+      [
+        "Ich bin für die Planung zuständig, nicht für die Durchführung.",
+        "Soy responsable de la planificación, no de la ejecución."
+      ],
+      [
+        "Der Vertrag wird verlängert, sofern beide Seiten zustimmen.",
+        "El contrato se prorrogará siempre que ambas partes estén de acuerdo."
+      ],
+      [
+        "Ich würde gern wissen, ob flexible Arbeitszeiten möglich sind.",
+        "Me gustaría saber si es posible tener un horario flexible."
+      ],
+      [
+        "Das Gehalt ist wichtig, aber die Arbeitsbedingungen sind ebenso entscheidend.",
+        "El salario es importante, pero las condiciones de trabajo son igual de decisivas."
+      ],
+      [
+        "Wir haben vereinbart, die Ergebnisse bis Freitag vorzulegen.",
+        "Hemos acordado presentar los resultados antes del viernes."
+      ],
+      [
+        "Ich schlage vor, dass wir die Aufgaben gerechter verteilen.",
+        "Propongo que repartamos las tareas de forma más justa."
+      ],
+      [
+        "Nachdem der Fehler entdeckt worden war, wurde der Ablauf geändert.",
+        "Después de que se descubriera el error, se modificó el procedimiento."
+      ],
+      [
+        "Diese Weiterbildung könnte meine beruflichen Möglichkeiten verbessern.",
+        "Esta formación continua podría mejorar mis oportunidades profesionales."
+      ],
+      [
+        "Es kommt darauf an, wie zuverlässig die Zusammenarbeit ist.",
+        "Depende de lo fiable que sea la colaboración."
+      ],
+      [
+        "Ich habe gekündigt, weil ich mich beruflich verändern wollte.",
+        "Renuncié porque quería dar un nuevo rumbo a mi carrera."
+      ],
+      [
+        "Bitte lassen Sie mich wissen, sobald eine Entscheidung getroffen wurde.",
+        "Por favor, avíseme en cuanto se haya tomado una decisión."
+      ],
+      [
+        "Wir sollten vermeiden, dass einzelne Mitarbeitende überlastet werden.",
+        "Deberíamos evitar que algunos empleados estén sobrecargados."
+      ],
+      [
+        "Unter diesen Bedingungen wäre ich bereit, das Angebot anzunehmen.",
+        "En estas condiciones, estaría dispuesto a aceptar la oferta."
+      ]
+    ]
+  },
+  {
+    "id": "society",
+    "de": "B2 · Gesellschaft & Umwelt",
+    "es": "B2 · Sociedad y medio ambiente",
+    "words": [
+      [
+        "die Gesellschaft",
+        "la sociedad"
+      ],
+      [
+        "die Bevölkerung",
+        "la población"
+      ],
+      [
+        "die Gleichberechtigung",
+        "la igualdad de derechos"
+      ],
+      [
+        "die Ungleichheit",
+        "la desigualdad"
+      ],
+      [
+        "die Bildung",
+        "la educación"
+      ],
+      [
+        "die Demokratie",
+        "la democracia"
+      ],
+      [
+        "die Wahl (Abstimmung)",
+        "las elecciones"
+      ],
+      [
+        "die Regierung",
+        "el gobierno"
+      ],
+      [
+        "die Öffentlichkeit",
+        "la opinión pública"
+      ],
+      [
+        "die Nachhaltigkeit",
+        "la sostenibilidad"
+      ],
+      [
+        "der Klimawandel",
+        "el cambio climático"
+      ],
+      [
+        "die Verschmutzung",
+        "la contaminación"
+      ],
+      [
+        "die Ressource",
+        "el recurso"
+      ],
+      [
+        "die Maßnahme",
+        "la medida"
+      ],
+      [
+        "die Auswirkung",
+        "la repercusión"
+      ],
+      [
+        "vermeiden",
+        "evitar"
+      ],
+      [
+        "fördern",
+        "fomentar"
+      ],
+      [
+        "schützen",
+        "proteger"
+      ],
+      [
+        "verbrauchen",
+        "consumir"
+      ],
+      [
+        "wiederverwenden",
+        "reutilizar"
+      ],
+      [
+        "entsorgen",
+        "desechar"
+      ],
+      [
+        "teilnehmen",
+        "participar"
+      ],
+      [
+        "beitragen",
+        "contribuir"
+      ],
+      [
+        "fordern",
+        "exigir"
+      ],
+      [
+        "verändern",
+        "cambiar"
+      ],
+      [
+        "nachhaltig",
+        "sostenible"
+      ],
+      [
+        "erneuerbar",
+        "renovable"
+      ],
+      [
+        "gerecht",
+        "justo"
+      ],
+      [
+        "umstritten",
+        "controvertido"
+      ],
+      [
+        "verantwortungsbewusst",
+        "responsable"
+      ]
+    ],
+    "sentences": [
+      [
+        "Damit die Maßnahme wirkt, müssen sich möglichst viele beteiligen.",
+        "Para que la medida funcione, debe participar el mayor número posible de personas."
+      ],
+      [
+        "Es reicht nicht aus, nur über den Klimawandel zu sprechen.",
+        "No basta con hablar del cambio climático."
+      ],
+      [
+        "Wenn wir weniger Energie verbrauchen würden, könnten wir die Umwelt entlasten.",
+        "Si consumiéramos menos energía, podríamos reducir el impacto ambiental."
+      ],
+      [
+        "Die Frage ist, wie die Kosten gerecht verteilt werden können.",
+        "La cuestión es cómo se pueden repartir los costes de forma justa."
+      ],
+      [
+        "Viele Menschen fordern, dass öffentliche Verkehrsmittel günstiger werden.",
+        "Muchas personas exigen que el transporte público sea más barato."
+      ],
+      [
+        "Ob diese Entscheidung sinnvoll ist, hängt von ihren langfristigen Folgen ab.",
+        "Que esta decisión sea razonable depende de sus consecuencias a largo plazo."
+      ],
+      [
+        "Je mehr wir wiederverwenden, desto weniger Abfall entsteht.",
+        "Cuanto más reutilizamos, menos residuos se generan."
+      ],
+      [
+        "Niemand sollte aufgrund seiner Herkunft benachteiligt werden.",
+        "Nadie debería ser discriminado por su origen."
+      ],
+      [
+        "Die Regierung hat angekündigt, neue Maßnahmen zu ergreifen.",
+        "El gobierno ha anunciado que tomará nuevas medidas."
+      ],
+      [
+        "Es wäre wünschenswert, dass alle Zugang zu guter Bildung hätten.",
+        "Sería deseable que todos tuvieran acceso a una buena educación."
+      ],
+      [
+        "Auch wenn die Lösung teuer ist, könnte sie sich langfristig lohnen.",
+        "Aunque la solución es cara, podría merecer la pena a largo plazo."
+      ],
+      [
+        "Wir sollten prüfen, ob es nachhaltigere Alternativen gibt.",
+        "Deberíamos comprobar si hay alternativas más sostenibles."
+      ],
+      [
+        "Der Bericht zeigt, wie stark sich die Lebensbedingungen verändert haben.",
+        "El informe muestra cuánto han cambiado las condiciones de vida."
+      ],
+      [
+        "Ich halte es für problematisch, dass manche Stimmen kaum gehört werden.",
+        "Me parece problemático que algunas voces apenas sean escuchadas."
+      ],
+      [
+        "Anstatt neue Dinge zu kaufen, können wir vieles reparieren.",
+        "En lugar de comprar cosas nuevas, podemos reparar muchas cosas."
+      ],
+      [
+        "Die Entscheidung wurde getroffen, ohne die Betroffenen ausreichend einzubeziehen.",
+        "La decisión se tomó sin implicar suficientemente a los afectados."
+      ],
+      [
+        "Welche Folgen hätte es, wenn wir nichts unternehmen würden?",
+        "¿Qué consecuencias tendría que no hiciéramos nada?"
+      ],
+      [
+        "Es ist entscheidend, dass die Regeln für alle gleichermaßen gelten.",
+        "Es fundamental que las normas se apliquen a todos por igual."
+      ],
+      [
+        "Trotz unterschiedlicher Ansichten haben wir ein gemeinsames Ziel.",
+        "A pesar de nuestras distintas opiniones, tenemos un objetivo común."
+      ],
+      [
+        "Jeder kann dazu beitragen, Ressourcen bewusster zu nutzen.",
+        "Todos pueden contribuir a utilizar los recursos de forma más consciente."
+      ]
+    ]
+  },
+  {
+    "id": "conflicts",
+    "de": "B1–B2 · Gefühle & Konflikte",
+    "es": "B1–B2 · Sentimientos y conflictos",
+    "words": [
+      [
+        "das Vertrauen",
+        "la confianza"
+      ],
+      [
+        "das Missverständnis",
+        "el malentendido"
+      ],
+      [
+        "die Entschuldigung",
+        "la disculpa"
+      ],
+      [
+        "der Vorwurf",
+        "el reproche"
+      ],
+      [
+        "der Kompromiss",
+        "el compromiso"
+      ],
+      [
+        "die Rücksicht",
+        "la consideración"
+      ],
+      [
+        "die Erwartung",
+        "la expectativa"
+      ],
+      [
+        "die Geduld",
+        "la paciencia"
+      ],
+      [
+        "die Angst",
+        "el miedo"
+      ],
+      [
+        "die Erleichterung",
+        "el alivio"
+      ],
+      [
+        "die Beziehung",
+        "la relación"
+      ],
+      [
+        "die Grenze",
+        "el límite"
+      ],
+      [
+        "die Unterstützung",
+        "el apoyo"
+      ],
+      [
+        "die Versöhnung",
+        "la reconciliación"
+      ],
+      [
+        "die Ehrlichkeit",
+        "la sinceridad"
+      ],
+      [
+        "sich entschuldigen",
+        "disculparse"
+      ],
+      [
+        "verzeihen",
+        "perdonar"
+      ],
+      [
+        "sich beschweren",
+        "quejarse"
+      ],
+      [
+        "streiten",
+        "discutir"
+      ],
+      [
+        "zuhören (aufmerksam)",
+        "escuchar con atención"
+      ],
+      [
+        "vertrauen",
+        "confiar"
+      ],
+      [
+        "enttäuschen",
+        "decepcionar"
+      ],
+      [
+        "ermutigen",
+        "animar"
+      ],
+      [
+        "respektieren",
+        "respetar"
+      ],
+      [
+        "nachgeben",
+        "ceder"
+      ],
+      [
+        "verletzt (emotional)",
+        "dolido"
+      ],
+      [
+        "erleichtert",
+        "aliviado"
+      ],
+      [
+        "besorgt",
+        "preocupado"
+      ],
+      [
+        "geduldig",
+        "paciente"
+      ],
+      [
+        "ehrlich",
+        "sincero"
+      ]
+    ],
+    "sentences": [
+      [
+        "Es tut mir leid, dass ich dich unterbrochen habe.",
+        "Siento haberte interrumpido."
+      ],
+      [
+        "Ich wünsche mir, dass du mir erst zuhörst, bevor du antwortest.",
+        "Me gustaría que me escucharas antes de responder."
+      ],
+      [
+        "Wenn ich gewusst hätte, wie du dich fühlst, hätte ich anders reagiert.",
+        "Si hubiera sabido cómo te sentías, habría reaccionado de otra manera."
+      ],
+      [
+        "Ich habe den Eindruck, dass wir aneinander vorbeireden.",
+        "Tengo la impresión de que no nos estamos entendiendo."
+      ],
+      [
+        "Lass uns versuchen, einen Kompromiss zu finden.",
+        "Intentemos encontrar un compromiso."
+      ],
+      [
+        "Ich verstehe, dass du enttäuscht bist, aber das war nicht meine Absicht.",
+        "Entiendo que estés decepcionado, pero esa no era mi intención."
+      ],
+      [
+        "Es wäre mir lieber, wenn wir in Ruhe darüber sprechen könnten.",
+        "Preferiría que pudiéramos hablar de ello con calma."
+      ],
+      [
+        "Bitte sag mir ehrlich, was dich stört.",
+        "Por favor, dime sinceramente qué te molesta."
+      ],
+      [
+        "Wir müssen nicht dieselbe Meinung haben, um einander zu respektieren.",
+        "No tenemos que tener la misma opinión para respetarnos."
+      ],
+      [
+        "Ich möchte vermeiden, dass dieses Missverständnis unsere Beziehung belastet.",
+        "Quiero evitar que este malentendido afecte a nuestra relación."
+      ],
+      [
+        "Ich bin erleichtert, dass wir das geklärt haben.",
+        "Me alivia que lo hayamos aclarado."
+      ],
+      [
+        "Es ärgert mich, wenn meine Grenzen nicht respektiert werden.",
+        "Me molesta que no se respeten mis límites."
+      ],
+      [
+        "Könntest du mir erklären, warum du so reagiert hast?",
+        "¿Podrías explicarme por qué reaccionaste así?"
+      ],
+      [
+        "Ich hätte mir gewünscht, dass du mich vorher gefragt hättest.",
+        "Me habría gustado que me hubieras preguntado antes."
+      ],
+      [
+        "Auch wenn es mir schwerfällt, möchte ich dir verzeihen.",
+        "Aunque me cuesta, quiero perdonarte."
+      ],
+      [
+        "Wir sollten uns gegenseitig unterstützen, statt uns Vorwürfe zu machen.",
+        "Deberíamos apoyarnos mutuamente en vez de hacernos reproches."
+      ],
+      [
+        "Ich brauche etwas Zeit, um darüber nachzudenken.",
+        "Necesito algo de tiempo para pensar en ello."
+      ],
+      [
+        "Es ist verständlich, dass du dir Sorgen machst.",
+        "Es comprensible que estés preocupado."
+      ],
+      [
+        "Seit wir offener miteinander sprechen, streiten wir seltener.",
+        "Desde que hablamos más abiertamente, discutimos menos."
+      ],
+      [
+        "Was könnten wir tun, damit sich diese Situation nicht wiederholt?",
+        "¿Qué podríamos hacer para que esta situación no se repita?"
+      ]
+    ]
+  },
+  {
+    "id": "planning",
+    "de": "B1–B2 · Pläne & Bedingungen",
+    "es": "B1–B2 · Planes y condiciones",
+    "words": [
+      [
+        "die Absicht",
+        "la intención"
+      ],
+      [
+        "das Ziel",
+        "el objetivo"
+      ],
+      [
+        "die Möglichkeit",
+        "la posibilidad"
+      ],
+      [
+        "die Entscheidung",
+        "la decisión"
+      ],
+      [
+        "das Risiko",
+        "el riesgo"
+      ],
+      [
+        "die Wahrscheinlichkeit",
+        "la probabilidad"
+      ],
+      [
+        "die Bedingung",
+        "la condición"
+      ],
+      [
+        "die Folge",
+        "la consecuencia"
+      ],
+      [
+        "die Alternative",
+        "la alternativa"
+      ],
+      [
+        "die Vorbereitung",
+        "la preparación"
+      ],
+      [
+        "die Herausforderung",
+        "el reto"
+      ],
+      [
+        "die Lösung",
+        "la solución"
+      ],
+      [
+        "der Aufwand",
+        "el esfuerzo"
+      ],
+      [
+        "die Priorität",
+        "la prioridad"
+      ],
+      [
+        "die Ungewissheit",
+        "la incertidumbre"
+      ],
+      [
+        "planen",
+        "planificar"
+      ],
+      [
+        "vorhaben",
+        "tener intención de"
+      ],
+      [
+        "entscheiden",
+        "decidir"
+      ],
+      [
+        "vorbereiten",
+        "preparar"
+      ],
+      [
+        "erreichen",
+        "alcanzar"
+      ],
+      [
+        "abschätzen",
+        "estimar"
+      ],
+      [
+        "anpassen",
+        "adaptar"
+      ],
+      [
+        "verzichten",
+        "renunciar a"
+      ],
+      [
+        "vorschlagen",
+        "proponer"
+      ],
+      [
+        "ermöglichen",
+        "hacer posible"
+      ],
+      [
+        "wahrscheinlich",
+        "probable"
+      ],
+      [
+        "unwahrscheinlich",
+        "improbable"
+      ],
+      [
+        "vorläufig",
+        "provisional"
+      ],
+      [
+        "rechtzeitig",
+        "a tiempo"
+      ],
+      [
+        "gegebenenfalls",
+        "si es necesario"
+      ]
+    ],
+    "sentences": [
+      [
+        "Wenn ich mehr Zeit hätte, würde ich jeden Tag Spanisch üben.",
+        "Si tuviera más tiempo, practicaría español todos los días."
+      ],
+      [
+        "Sobald ich die Bestätigung erhalte, werde ich die Reise buchen.",
+        "En cuanto reciba la confirmación, reservaré el viaje."
+      ],
+      [
+        "Wir bleiben hier, bis der Regen aufhört.",
+        "Nos quedaremos aquí hasta que deje de llover."
+      ],
+      [
+        "Ich werde dich anrufen, bevor ich losfahre.",
+        "Te llamaré antes de salir."
+      ],
+      [
+        "Für den Fall, dass der Zug ausfällt, sollten wir eine Alternative haben.",
+        "Por si se cancela el tren, deberíamos tener una alternativa."
+      ],
+      [
+        "Ich möchte, dass du selbst entscheidest, was für dich wichtig ist.",
+        "Quiero que decidas por ti mismo qué es importante para ti."
+      ],
+      [
+        "Es ist möglich, dass wir den Termin verschieben müssen.",
+        "Es posible que tengamos que aplazar la cita."
+      ],
+      [
+        "Wenn alles nach Plan läuft, werden wir nächste Woche fertig sein.",
+        "Si todo va según lo previsto, habremos terminado la semana que viene."
+      ],
+      [
+        "Ich hätte das Angebot angenommen, wenn die Bedingungen besser gewesen wären.",
+        "Habría aceptado la oferta si las condiciones hubieran sido mejores."
+      ],
+      [
+        "Wir sollten nur Risiken eingehen, deren Folgen wir verstehen.",
+        "Solo deberíamos asumir riesgos cuyas consecuencias entendamos."
+      ],
+      [
+        "Damit du dich besser vorbereiten kannst, schicke ich dir die Unterlagen.",
+        "Para que puedas prepararte mejor, te envío los documentos."
+      ],
+      [
+        "Was würdest du tun, wenn du die Entscheidung allein treffen müsstest?",
+        "¿Qué harías si tuvieras que tomar la decisión tú solo?"
+      ],
+      [
+        "Ich hoffe, dass wir eine Lösung finden, mit der alle zufrieden sind.",
+        "Espero que encontremos una solución con la que todos estén satisfechos."
+      ],
+      [
+        "Solange das Ziel klar ist, können wir den Weg dorthin anpassen.",
+        "Mientras el objetivo esté claro, podemos adaptar la manera de alcanzarlo."
+      ],
+      [
+        "Wir müssen berücksichtigen, dass nicht alles vorhersehbar ist.",
+        "Tenemos que tener en cuenta que no todo es previsible."
+      ],
+      [
+        "Ich werde erst zusagen, nachdem ich die Einzelheiten geprüft habe.",
+        "Solo confirmaré después de haber revisado los detalles."
+      ],
+      [
+        "Es wäre sinnvoll, die wichtigsten Aufgaben zuerst zu erledigen.",
+        "Sería conveniente realizar primero las tareas más importantes."
+      ],
+      [
+        "Je früher wir anfangen, desto mehr Spielraum haben wir.",
+        "Cuanto antes empecemos, más margen tendremos."
+      ],
+      [
+        "Ohne deine Unterstützung hätten wir das Ziel nicht erreicht.",
+        "Sin tu apoyo no habríamos alcanzado el objetivo."
+      ],
+      [
+        "Ich bin bereit, auf etwas zu verzichten, wenn sich dadurch die Situation verbessert.",
+        "Estoy dispuesto a renunciar a algo si con ello mejora la situación."
+      ]
+    ]
+  }
+]

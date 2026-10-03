@@ -1,0 +1,12 @@
+{
+  "id": "de-es",
+  "name": "Juntos",
+  "appDirectory": "apps/juntos",
+  "languages": [
+    "de",
+    "es"
+  ],
+  "cards": 720,
+  "offline": true,
+  "preferredVoice": "Mateo"
+}

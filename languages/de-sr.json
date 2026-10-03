@@ -1,0 +1,12 @@
+{
+  "id": "de-sr",
+  "name": "Zajedno",
+  "appDirectory": "apps/zajedno",
+  "languages": [
+    "de",
+    "sr"
+  ],
+  "cards": 420,
+  "offline": true,
+  "preferredVoice": "Dragana"
+}

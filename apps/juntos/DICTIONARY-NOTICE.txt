@@ -1,0 +1,13 @@
+Deutsch–Spanisch: FreeDict + WikDict, Version 2025.11.23
+Maintainer: Karl Bartel; Ausgangsdaten: Wiktionary-Mitwirkende, via DBnary.
+Quelle: https://download.freedict.org/dictionaries/deu-spa/2025.11.23/freedict-deu-spa-2025.11.23.src.tar.xz
+Lizenz: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+Änderungen: TEI nach JSON konvertiert; Übersetzungen je Bedeutung getrennt,
+Bedeutungsangaben
+auf 500 Zeichen gekürzt, Steuerzeichen/zu lange Lerntexte ausgeschlossen,
+doppelte identische Paare entfernt, gzip-komprimiert. Lizenztext beiliegend.
+36744 Quellstichwörter; 57601 durchsuchbare Übersetzungszeilen.
+Download-SHA512: 37d5e623cf6c8ccb419d85b463953ec91577013a1737771895521f6d0fc5a5ed3e9253ae9b5e80faae1d8124d9b2c1efd65e65a3e3754289f56ea966df50b028
+Der Wörterbuchinhalt ist automatisch erstellt; mehrdeutige Übersetzungen
+vor Übernahme in den Lernbestand prüfen.
